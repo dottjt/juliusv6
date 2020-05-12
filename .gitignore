@@ -30,3 +30,4 @@ themes/reade/junit.xml
 themes/reade/partials/structure/stylesheet.html
 
 node_modules
+.env
