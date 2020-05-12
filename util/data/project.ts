@@ -155,11 +155,11 @@ A minimalistic personal website designed for the purposes of my coding career.\
   "links": [
     {
       "title": "Website",
-      "link": "https://v5./"
+      "link": "https://v5.juliusreade.com/"
     },
     {
       "title": "Github",
-      "link": "https://"
+      "link": "https://github.com/dottjt/juliusv5/"
     }
   ],
   "socials": [
@@ -429,79 +429,8 @@ and development environments It's really cool.\
   ],
   "links": [
     {
-      "title": "title_value",
-      "link": "https://"
-    }
-  ]
-}
-
-const awfulManager: ProjectData =
-{
-  "slug": "awful-manager",
-  "title": "Awful Manager",
-  "japanese_title": "ひどい Awful Manager",
-  "excerpt": "elixir. phoenix. elm.",
-  "description": "\
-This piece of software is an absolute beast. It is basically the GUI backend for \
-Awful CMS. It allows me to update the content of all my Awful Affiliate websites from the one domain, \
-as well as easily manage production and development environments. Not to mention, \
-it's fully navigable via keyboard and does a whole heap of things!\
-",
-  "featured_image": "",
-  "background_image": "images/cool/coolb.jpg",
-  "draft": false,
-  "status": Status.Archive,
-  "date": "date_value",
-  "end_date": "2018-01-01T23:00:07+10:00",
-  "start_date": "2017-01-01T23:00:07+10:00",
-  "socials": [
-
-  ],
-  "tags": [
-      "website"
-  ],
-  "categories": [
-    "coding"
-  ],
-  "links": [
-    {
-      "title": "title_value",
-      "link": "https://"
-    }
-  ]
-}
-
-const awfulAffiliate: ProjectData =
-{
-  "slug": "awful-affiliate",
-  "title": "Awful Affiliate",
-  "japanese_title": "ひどい Awful Affiliate",
-  "excerpt": "elixir. phoenix. elm.",
-  "description": "\
-Awful Affiliate is the website template I use for all my affiliate websites. \
-It is a fully functioning Phoenix Framework application, allowing you \
-to create products, updates, tags, categories - including whatever the hell you want.\
-",
-  "featured_image": "",
-  "background_image": "images/cool/coolc.jpg",
-  "draft": false,
-  "status": Status.Archive,
-  "date": "date_value",
-  "end_date": "2018-01-01T23:00:07+10:00",
-  "start_date": "2017-01-01T23:00:07+10:00",
-  "socials": [
-
-  ],
-  "tags": [
-    "website"
-  ],
-  "categories": [
-    "coding"
-  ],
-  "links": [
-    {
-      "title": "title_value",
-      "link": "https://"
+      "title": "Github",
+      "link": "https://github.com/dottjt/AwfulCms"
     }
   ]
 }
@@ -521,7 +450,7 @@ Actually, I never ended up finishing it, because I realised that it wouldn't mak
   "featured_image": "",
   "background_image": "images/cool/coold.jpg",
   "draft": false,
-  "status": Status.Archive,
+  "status": Status.Incomplete,
   "date": "date_value",
   "end_date": "2017-01-01T23:00:07+10:00",
   "start_date": "2017-01-01T23:00:07+10:00",
@@ -560,9 +489,6 @@ an utterly piece of crap, but it was an incredible learning experience.\
   "date": "date_value",
   "end_date": "2017-02-24T23:00:07+10:00", // correct (commit) - I don't think these overall times are correct, only commit times
   "start_date": "2016-05-16T23:00:07+10:00", // correct (commit) - I don't think these overall times are correct, only commit times
-  "socials": [
-
-  ],
   "socials": [
 
   ],

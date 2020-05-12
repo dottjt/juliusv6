@@ -7,7 +7,8 @@ export type Link = {
 
 export enum Status {
   Active = "active",
-  Archive = "archive"
+  Archive = "archive",
+  Incomplete = "incomplete"
 };
 
 export type ProjectData = {

@@ -1,4 +1,5 @@
 
+const coding =
 {
   "slug": "Coding",
   "title": "Coding",
@@ -6,6 +7,7 @@
   "description": "What companies pay me to do."
 }
 
+const writing =
 {
   "slug": "writing",
   "title": "Writing",
@@ -13,6 +15,7 @@
   "description": "Delicieux, mon petit garçon."
 }
 
+const youtube =
 {
   "slug": "youtube",
   "title": "Youtube",
@@ -20,6 +23,7 @@
   "description": "I wanted to become a YouTube star."
 }
 
+const podcast =
 {
   "slug": "podcast",
   "title": "Podcast",
@@ -27,6 +31,7 @@
   "description": "I used to create podcasts."
 }
 
+const radio =
 {
   "slug": "radio",
   "title": "Radio",
