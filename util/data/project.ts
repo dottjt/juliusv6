@@ -1,4 +1,5 @@
 import { Status, ProjectData } from '../types/data';
+// import { DOTTJT_GITHUB_URL } from '../constants';
 
 // Category - Coding
 
@@ -7,7 +8,7 @@ const juliusV6: ProjectData =
   "slug": "julius-reade-v6",
   "title": "Personal Website V6",
   "japanese_title": "個人的な Personal Website V6",
-  "excerpt": "",
+  "excerpt": "wah. wah. wah.",
   "description": "\
 The sixth iteration of my personal website. \
 It's basically been designed with my writing career in mind.\
@@ -26,7 +27,7 @@ It's basically been designed with my writing career in mind.\
     },
     {
       "title": "Github",
-      "link": "https://github.com/dottjt/juliusv6"
+      "link": `https://github.com/dottjt/juliusv6`
     }
   ],
   "socials": [
@@ -45,9 +46,10 @@ const tryHovering: ProjectData =
   "slug": "try-hovering",
   "title": "Try Hovering",
   "japanese_title": "ホバリング Try Hovering",
-  "excerpt": "",
+  "excerpt": "hover. hover. hover.",
   "description": "\
-Whilst doing NeverFap Deluxe I decided to come up with my own meditation technique to help people.\
+Whilst running NeverFap Deluxe I decided to come up with my own meditation technique to help people \
+who traditionally struggle with meditation. There is a web app, as well as a mobile app too!\
 ",
   "featured_image": "",
   "background_image": "images/cool/coola.jpg",
@@ -62,6 +64,14 @@ Whilst doing NeverFap Deluxe I decided to come up with my own meditation techniq
       "link": "https://tryhovering.com/"
     },
     {
+      "title": "Web App",
+      "link": "https://hovering.neverfapdeluxe.com/"
+    },
+    {
+      "title": "Android App",
+      "link": "https://play.google.com/store/apps/details?id=com.nfd.hovering&hl=en_AU/"
+    },
+    {
       "title": "Github",
       "link": "https://github.com/neverfap-deluxe/hovering-web/"
     }
@@ -70,7 +80,8 @@ Whilst doing NeverFap Deluxe I decided to come up with my own meditation techniq
 
   ],
   "tags": [
-    "website"
+    "website",
+    "mobile app",
   ],
   "categories": [
     "coding",
@@ -82,10 +93,11 @@ const neverfapDeluxe: ProjectData =
   "slug": "neverfap-deluxe",
   "title": "NeverFap Deluxe",
   "japanese_title": "オナニー NeverFap Deluxe",
-  "excerpt": "",
+  "excerpt": "deluxe. deluxe. deluxe.",
   "description": "\
-I used to suffer from porn addiction. Then I overcame it and I wanted to help others do the same too. \
-There's a website, subreddit, discord, you name it. Hell we even have a mobile app.\
+I used to suffer from porn addiction, then I overcame it and I wanted to help others do the same too. \
+The website is super comprehensive. There's also a subreddit, discord and a million other services and subdomains involved. \
+Hell we even have a mobile app too.\
 ",
   "featured_image": "",
   "background_image": "images/cool/coola.jpg",
@@ -120,18 +132,18 @@ There's a website, subreddit, discord, you name it. Hell we even have a mobile a
     "mobile app"
   ],
   "categories": [
-    "coding",
+    "coding"
   ]
 }
 
 const juliusV5: ProjectData =
 {
-  "slug": "julius-reade-v6",
-  "title": "Julius Reade",
-  "japanese_title": "Julius Reade",
-  "excerpt": "",
+  "slug": "julius-reade-v5",
+  "title": "Personal Website V5",
+  "japanese_title": "ウェブサイト Personal Website V5",
+  "excerpt": "personal. personal. personal.",
   "description": "\
-I used to suffer from porn addiction. Then I overcame it and I wanted to help others do the same too. There's a website, subreddit, . Hell we even have a mobile app.\
+A minimalistic personal website designed for the purposes of my coding career.\
 ",
   "featured_image": "",
   "background_image": "images/cool/coola.jpg",
@@ -143,11 +155,11 @@ I used to suffer from porn addiction. Then I overcame it and I wanted to help ot
   "links": [
     {
       "title": "Website",
-      "link": "https://neverfapdeluxe.com/"
+      "link": "https://v5./"
     },
     {
       "title": "Github",
-      "link": "https:// "
+      "link": "https://"
     }
   ],
   "socials": [
@@ -157,7 +169,7 @@ I used to suffer from porn addiction. Then I overcame it and I wanted to help ot
     "website"
   ],
   "categories": [
-    "coding",
+    "coding"
   ]
 }
 
@@ -178,8 +190,8 @@ machine learning simply wasn't for me.\
   "draft": false,
   "status": Status.Archive,
   "date": "date_value",
-  "start_date": "2019-10-03T23:00:07+10:00", // correct (commit)
   "end_date": "2019-10-03T23:00:07+10:00", // correct (commit) // I'm sure I worked on this well-before here
+  "start_date": "2019-10-03T23:00:07+10:00", // correct (commit)
   "socials": [
 
   ],
@@ -214,13 +226,13 @@ taking an ML approach made more sense in the end.\
   "draft": false,
   "status": Status.Archive,
   "date": "date_value",
-  "end_date": "2020-05-12T05:43:32+10:00",
-  "start_date": "2020-05-12T05:43:32+10:00",
+  "end_date": "2018-12-04T05:43:32+10:00", // correct (commit)
+  "start_date": "2018-10-15T05:43:32+10:00", // correct (commit)
   "links": [
-    {
-      "title": "Website",
-      "link": "https://neverfapdeluxe.com/"
-    },
+    // {
+    //   "title": "Website",
+    //   "link": "https://watashiengine.com/" // did exist
+    // },
     {
       "title": "Github",
       "link": "https://github.com/dottjt/watashi-engine "
@@ -239,25 +251,28 @@ taking an ML approach made more sense in the end.\
 
 const juliusV4: ProjectData =
 {
-  "slug": "julius-reade-v6",
-  "title": "Julius Reade",
-  "japanese_title": "Julius Reade",
-  "excerpt": "",
+  "slug": "julius-reade-v4",
+  "title": "Personal Website V4",
+  "japanese_title": "Personal Website V4",
+  "excerpt": "hugo. hugo. hugo.",
   "description": "\
-I used to suffer from porn addiction. Then I overcame it and I wanted to help others do the same too. There's a website, subreddit, . Hell we even have a mobile app.\
+Possibly one of the worst websites I've ever put to my name. \
 ",
   "featured_image": "",
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
+  "date": "date_value",
+  "end_date": "2018-06-14T05:43:32+10:00", // correct (commit)
+  "start_date": "2018-05-31T05:43:32+10:00", // correct (commit)
   "links": [
     {
       "title": "Website",
-      "link": "https://neverfapdeluxe.com/"
+      "link": "https://v4.juliusreade.com/"
     },
     {
       "title": "Github",
-      "link": "https:// "
+      "link": "https://github.com/dottjt/juliusv4"
     }
   ],
   "socials": [
@@ -273,34 +288,37 @@ I used to suffer from porn addiction. Then I overcame it and I wanted to help ot
 
 const analogies: ProjectData =
 {
-  "slug": "neverfap-deluxe",
-  "title": "NeverFap Deluxe",
-  "excerpt": "",
+  "slug": "analogies",
+  "title": "Analogies",
+  "japanese_title": "アナロジー Analogies",
+  "excerpt": "hugo. typescript. pixi.js.",
   "description": "\
-I used to suffer from porn addiction. Then I overcame it and I wanted to help others do the same too. There's a website, subreddit, . Hell we even have a mobile app.\
+I wanted to be able to explain mental illness using moving visualisations you could interact with. \
+I ended up building a sort of customisable WebGL visualisation engine. \
+Very proud of this project.\
 ",
   "featured_image": "",
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
   "date": "date_value",
-  "end_date": "2020-05-12T05:43:32+10:00",
-  "start_date": "2020-05-12T05:43:32+10:00",
+  "end_date": "2018-06-03T05:43:32+10:00", // correct (commit)
+  "start_date": "2018-04-13T05:43:32+10:00", // correct (commit) - I think this started earlier i.e. the other V1 project.
   "links": [
+    // {
+    //   "title": "Website",
+    //   "link": "https://analogies.io/" // never existed, I think.
+    // },
     {
-      "title": "Website",
-      "link": "https://neverfapdeluxe.com/"
-    },
-    {
-      "title": "Github Organisation",
-      "link": "https:// "
+      "title": "Github",
+      "link": "https://github.com/dottjt/analogies"
     }
   ],
   "socials": [
 
   ],
   "tags": [
-      "website"
+    "website"
   ],
   "categories": [
     "coding",
@@ -309,11 +327,14 @@ I used to suffer from porn addiction. Then I overcame it and I wanted to help ot
 
 const characterJump: ProjectData =
 {
-  "slug": "neverfap-deluxe",
-  "title": "NeverFap Deluxe",
-  "excerpt": "",
+  "slug": "character-jump",
+  "title": "Character Jump",
+  "japanese_title": "ジャンプ Character Jump",
+  "excerpt": "jump. jump. jump.",
   "description": "\
-I used to suffer from porn addiction. Then I overcame it and I wanted to help others do the same too. There's a website, subreddit, . Hell we even have a mobile app.\
+I wanted to create a web app to help people with mental health issues. \
+I was at the time, for whatever reason, obsessed with this idea of a mental health framework \
+which people could apply to their lives.\
 ",
   "featured_image": "",
   "background_image": "images/cool/coola.jpg",
@@ -323,20 +344,20 @@ I used to suffer from porn addiction. Then I overcame it and I wanted to help ot
   "end_date": "2020-05-12T05:43:32+10:00",
   "start_date": "2020-05-12T05:43:32+10:00",
   "links": [
+    // {
+    //   "title": "Website",
+    //   "link": "https://characterjump.com/" // I don't think this ever existed.
+    // },
     {
-      "title": "Website",
-      "link": "https://neverfapdeluxe.com/"
-    },
-    {
-      "title": "Github Organisation",
-      "link": "https:// "
+      "title": "Github",
+      "link": "https://github.com/dottjt/CharacterJumpTwo"
     }
   ],
   "socials": [
 
   ],
   "tags": [
-      "website"
+    "website"
   ],
   "categories": [
     "coding",
@@ -347,17 +368,20 @@ const juliusV3: ProjectData =
 {
   "slug": "julius-reade-v3",
   "title": "Personal Website V3",
-  "japanese_title": "私的な Personal Website",
-  "excerpt": ".",
+  "japanese_title": "直々 Personal Website",
+  "excerpt": "elixir. phoenix. sass.",
   "description": "\
+This intended to be a full display of everything I've ever created. \
+Unfortunately it was during a turbulent period of changing/losing jobs \
+so it never really saw it's full potential. Regardless, I loved the syle of it.\
 ",
   "featured_image": "",
   "background_image": "images/cool/coolg.jpg",
   "draft": false,
   "status": Status.Archive,
   "date": "date_value",
-  "start_date": "2018-01-01T23:00:07+10:00",
   "end_date": "2018-01-01T23:00:07+10:00",
+  "start_date": "2018-01-01T23:00:07+10:00",
   "socials": [
 
   ],
@@ -369,8 +393,8 @@ const juliusV3: ProjectData =
   ],
   "links": [
     {
-      "title": "title_value",
-      "link": "https://"
+      "title": "Github",
+      "link": "https://github.com/dottjt/juliusv3"
     }
   ]
 }
@@ -392,8 +416,8 @@ and development environments It's really cool.\
   "draft": false,
   "status": Status.Archive,
   "date": "date_value",
-  "start_date": "2017-01-01T23:00:07+10:00",
   "end_date": "2018-01-01T23:00:07+10:00",
+  "start_date": "2017-01-01T23:00:07+10:00",
   "socials": [
 
   ],
@@ -428,8 +452,8 @@ it's fully navigable via keyboard and does a whole heap of things!\
   "draft": false,
   "status": Status.Archive,
   "date": "date_value",
-    "start_date": "2017-01-01T23:00:07+10:00",
   "end_date": "2018-01-01T23:00:07+10:00",
+  "start_date": "2017-01-01T23:00:07+10:00",
   "socials": [
 
   ],
@@ -463,8 +487,8 @@ to create products, updates, tags, categories - including whatever the hell you 
   "draft": false,
   "status": Status.Archive,
   "date": "date_value",
-    "start_date": "2017-01-01T23:00:07+10:00",
   "end_date": "2018-01-01T23:00:07+10:00",
+  "start_date": "2017-01-01T23:00:07+10:00",
   "socials": [
 
   ],
@@ -499,13 +523,13 @@ Actually, I never ended up finishing it, because I realised that it wouldn't mak
   "draft": false,
   "status": Status.Archive,
   "date": "date_value",
-  "start_date": "2017-01-01T23:00:07+10:00",
   "end_date": "2017-01-01T23:00:07+10:00",
+  "start_date": "2017-01-01T23:00:07+10:00",
   "socials": [
 
   ],
   "tags": [
-      "website"
+    "website"
   ],
   "categories": [
     "coding"
@@ -525,17 +549,17 @@ const learningSchedule: ProjectData =
   "japanese_title": "ラーニング Learning Schedule",
   "excerpt": "node. react. redux.",
   "description": "\
-I had literally zero idea what I was doing - however, it does quite a lot and it was an \
-incredible learning experience.\
+Learning Schedule was the very first full-stack application I ever built. \
+I had literally zero idea what I was doing and technically speaking it was \
+an utterly piece of crap, but it was an incredible learning experience.\
 ",
-  "featured_image": "Learning Schedule was the very first full-stack application I ever built!",
+  "featured_image": "",
   "background_image": "",
-  "link": "https://github.com/dottjt/LearningSchedule",
   "draft": false,
   "status": Status.Archive,
   "date": "date_value",
-  "start_date": "2016-01-01T23:00:07+10:00",
-  "end_date": "2017-01-01T23:00:07+10:00",
+  "end_date": "2017-02-24T23:00:07+10:00", // correct (commit) - I don't think these overall times are correct, only commit times
+  "start_date": "2016-05-16T23:00:07+10:00", // correct (commit) - I don't think these overall times are correct, only commit times
   "socials": [
 
   ],
@@ -543,15 +567,19 @@ incredible learning experience.\
 
   ],
   "tags": [
-      "website"
+    "website"
   ],
   "categories": [
     "coding"
   ],
   "links": [
+    // {
+    //   "title": "Website",
+    //   "link": "https://learningschedule.com/" // did exist.
+    // }
     {
-      "title": "title_value",
-      "link": "https://"
+      "title": "Github",
+      "link": "https://github.com/dottjt/LearningSchedule"
     }
   ]
 }
@@ -572,13 +600,13 @@ I think it looks nice.\
   "draft": false,
   "status": Status.Archive,
   "date": "date_value",
-  "start_date": "2018-01-01T23:00:07+10:00",
   "end_date": "2018-01-01T23:00:07+10:00",
+  "start_date": "2018-01-01T23:00:07+10:00",
   "socials": [
 
   ],
   "tags": [
-
+    "website"
   ],
   "categories": [
     "coding"
@@ -594,21 +622,20 @@ I think it looks nice.\
 const juliusV1: ProjectData =
 {
   "slug": "julius-reade-v1",
-  "title": "Personal Website",
-  "japanese_title": "私的な Personal Website",
+  "title": "Personal Website V1",
+  "japanese_title": "私的な Personal Website V1",
   "excerpt": "hugo. hugo. hugo.",
   "description": "\
-The very first version of this portfolio website. Well, it wasn't \
-so much of a portfolio website, rather than a minimalist personal blog I slapped together. \
-Still, I thought it looked lovely.\
+The very first version of this portfolio website. \
+It's more of a personal biography than a portfolio website, but it has a nice look n' feel to it. \
 ",
   "featured_image": "",
   "background_image": "images/cool/coolf.jpg",
   "draft": false,
   "status": Status.Archive,
   "date": "date_value",
-  "start_date": "2016-01-01T23:00:07+10:00",
   "end_date": "2016-01-01T23:00:07+10:00",
+  "start_date": "2016-01-01T23:00:07+10:00",
   "socials": [
 
   ],
@@ -620,8 +647,12 @@ Still, I thought it looked lovely.\
   ],
   "links": [
     {
-      "title": "title_value",
-      "link": "https://"
+      "title": "Website",
+      "link": "https://v1.juliusreade.com/"
+    },
+    {
+      "title": "Github",
+      "link": "https://v1.juliusreade.com/"
     }
   ]
 }
@@ -642,8 +673,8 @@ const howToKillAChinaman: ProjectData =
   "draft": false,
   "status": Status.Archive,
   "date": "date_value",
-    "start_date": "2015-01-01T23:00:07+10:00",
   "end_date": "2017-01-01T23:00:07+10:00",
+  "start_date": "2015-01-01T23:00:07+10:00",
   "socials": [
 
   ],
@@ -675,8 +706,8 @@ const medium: ProjectData =
   "draft": false,
   "status": Status.Archive,
   "date": "date_value",
-    "start_date": "2015-01-01T23:00:07+10:00",
   "end_date": "2017-01-01T23:00:07+10:00",
+  "start_date": "2015-01-01T23:00:07+10:00",
   "socials": [
 
   ],
@@ -708,8 +739,8 @@ Before my website became *this* it was a blog containing all of the content you 
   "draft": false,
   "status": Status.Archive,
   "date": "date_value",
-    "start_date": "2016-01-01T23:00:07+10:00",
   "end_date": "2018-01-01T23:00:07+10:00",
+  "start_date": "2016-01-01T23:00:07+10:00",
   "socials": [
 
   ],
@@ -744,8 +775,8 @@ The more you know.\
   "draft": false,
   "status": Status.Archive,
   "date": "date_value",
-    "start_date": "2015-01-01T23:00:07+10:00",
   "end_date": "2015-01-01T23:00:07+10:00",
+  "start_date": "2015-01-01T23:00:07+10:00",
   "socials": [
 
   ],
@@ -770,20 +801,20 @@ const elegantlyAttached: ProjectData =
   "japanese_title": "エレガント Elegantly Attached",
   "excerpt": "tumblr. tumblr. tumblr.",
   "description": "\
-I have no idea why I created this blog. I recognise that
+Absolutely 100% should have left Tumblr at this point.\
 ",
   "featured_image": "",
   "background_image": "images/cool/coola2.jpg",
   "draft": false,
   "status": Status.Archive,
   "date": "date_value",
-    "start_date": "2015-01-01T23:00:07+10:00",
   "end_date": "2015-01-01T23:00:07+10:00",
+  "start_date": "2015-01-01T23:00:07+10:00",
   "socials": [
 
   ],
   "tags": [
-
+    "blog"
   ],
   "categories": [
     "writing"
@@ -791,11 +822,11 @@ I have no idea why I created this blog. I recognise that
   "links": [
     {
       "title": "Website",
-      "link": "https://.tumblr.com"
+      "link": "https://elegantlyattached.tumblr.com"
     },
     {
       "title": "Github",
-      "link": "https://"
+      "link": "https://github.com/dottjt/tumblour/tree/master/export/elegantlyattached"
     }
   ]
 }
@@ -807,28 +838,33 @@ const brokenHeartsAndFracturedSmiles: ProjectData =
   "japanese_title": "Broken Hearts and Fractured Smiles",
   "excerpt": "tumblr. tumblr. tumblr.",
   "description": "\
-.\
+I probably should have left Tumblr, rather than create this blog. \
+Although I suppose I wasn't sure how else to express myself.\
 ",
   "featured_image": "",
   "background_image": "images/cool/coola3.jpg",
   "draft": false,
   "status": Status.Archive,
   "date": "date_value",
-    "start_date": "2014-01-01T23:00:07+10:00",
   "end_date": "2015-01-01T23:00:07+10:00",
+  "start_date": "2014-01-01T23:00:07+10:00",
   "socials": [
 
   ],
   "tags": [
-
+    "blog"
   ],
   "categories": [
     "writing"
   ],
-  "links": [
+    "links": [
     {
-      "title": "title_value",
-      "link": "https://"
+      "title": "Website",
+      "link": "https://brokenheartsandfracturedsmiles.tumblr.com/"
+    },
+    {
+      "title": "Github",
+      "link": "https://github.com/dottjt/tumblour/tree/master/export/brokenheartsandfracturedsmiles"
     }
   ]
 }
@@ -840,27 +876,35 @@ const blackWhiteInkCurves: ProjectData =
   "japanese_title": "ブラック Black White Ink Curves",
   "excerpt": "tumblr. tumblr. tumblr.",
   "description": "\
+I really liked this blog. I think it was my last attempt at Tumblr before deciding that I was going to \
+stop pursuing women and focus on my mental health. While closing up shop, I decided to add this girl \
+on Facebook whom I was only friends with on Tumblr, since she was genuinely not awful, \
+and we've been in a relationship ever since <3.\
 ",
   "featured_image": "",
   "background_image": "images/cool/coola4.jpg",
   "draft": false,
   "status": Status.Archive,
   "date": "date_value",
-    "start_date": "2014-01-01T23:00:07+10:00",
   "end_date": "2014-01-01T23:00:07+10:00",
+  "start_date": "2014-01-01T23:00:07+10:00",
   "socials": [
 
   ],
   "tags": [
-
+    "blog"
   ],
   "categories": [
     "writing"
   ],
-  "links": [
+    "links": [
     {
-      "title": "title_value",
-      "link": "https://"
+      "title": "Website",
+      "link": "https://blackwhiteinkcurvesxxx.tumblr.com/"
+    },
+    {
+      "title": "Github",
+      "link": "https://github.com/dottjt/tumblour/tree/master/export/blackwhiteinkcurvesxxx"
     }
   ]
 }
@@ -872,27 +916,33 @@ const sweetCherryErotica: ProjectData =
   "japanese_title": "甘い Sweet Cherry Erotica",
   "excerpt": "tumblr. tumblr. tumblr.",
   "description": "\
+I thought this would also be a great way to find women. \
+I think I stopped doing it because I ended up finding a girlfriend.\
 ",
   "featured_image": "",
   "background_image": "images/cool/coola5.jpg",
   "draft": false,
   "status": Status.Archive,
   "date": "date_value",
-    "start_date": "2014-01-01T23:00:07+10:00",
   "end_date": "2014-01-01T23:00:07+10:00",
+  "start_date": "2014-01-01T23:00:07+10:00",
   "socials": [
 
   ],
   "tags": [
-
+    "blog"
   ],
   "categories": [
     "writing"
   ],
-  "links": [
+    "links": [
     {
-      "title": "title_value",
-      "link": "https://"
+      "title": "Website",
+      "link": "https://sweetcherryerotica.tumblr.com"
+    },
+    {
+      "title": "Github",
+      "link": "https://github.com/dottjt/tumblour/tree/master/export/sweetcherryerotica"
     }
   ]
 }
@@ -904,27 +954,32 @@ const tktxtktx: ProjectData =
   "japanese_title": "テキスト tktxtktx",
   "excerpt": "tumblr. tumblr. tumblr.",
   "description": "\
+This was an odd one. It was like the rebound relationship blog.\
 ",
   "featured_image": "",
   "background_image": "images/cool/coolb1.jpg",
   "draft": false,
   "status": Status.Archive,
   "date": "date_value",
-    "start_date": "2013-01-01T23:00:07+10:00",
   "end_date": "2013-01-01T23:00:07+10:00",
+  "start_date": "2013-01-01T23:00:07+10:00",
   "socials": [
 
   ],
   "tags": [
-
+    "blog"
   ],
   "categories": [
     "writing"
   ],
-  "links": [
+    "links": [
     {
-      "title": "title_value",
-      "link": "https://"
+      "title": "Website",
+      "link": "https://tktxtktx.tumblr.com/"
+    },
+    {
+      "title": "Github",
+      "link": "https://github.com/dottjt/tumblour/tree/master/export/tktxtktx"
     }
   ]
 }
@@ -937,28 +992,32 @@ const inkQuotes: ProjectData =
   "excerpt": "tumblr. tumblr. tumblr.",
   "description": "\
 I created this blog with the sole intention of finding a girlfriend. \
-It was both the best and worst thing that's ever happened to me.\
+It was both one of the best and worst things that's ever happened to me.\
 ",
   "featured_image": "",
   "background_image": "images/cool/coolb2.jpg",
   "draft": false,
   "status": Status.Archive,
   "date": "date_value",
-  "start_date": "2013-01-01T23:00:07+10:00",
   "end_date": "2013-01-01T23:00:07+10:00",
+  "start_date": "2013-01-01T23:00:07+10:00",
   "socials": [
 
   ],
   "tags": [
-
+    "blog"
   ],
   "categories": [
     "writing"
   ],
-  "links": [
+    "links": [
     {
-      "title": "title_value",
-      "link": "https://"
+      "title": "Website",
+      "link": "https://inkquotes.tumblr.com/"
+    },
+    {
+      "title": "Github",
+      "link": "https://github.com/dottjt/tumblour/tree/master/export/inkquotes"
     }
   ]
 }
@@ -967,22 +1026,23 @@ const adelaidesucks: ProjectData =
 {
   "slug": "adelaidesucks",
   "title": "adelaidesucks",
-  "japanese_title": "おっぱい adelaidesucks",
+  "japanese_title": "アデレード adelaidesucks",
   "excerpt": "blogspot. blogspot. blogspot.",
   "description": "\
+The very first blog I ever created. Probably what started it all.\
 ",
   "featured_image": "",
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
   "date": "date_value",
-    "start_date": "2008-01-01T23:00:07+10:00",
   "end_date": "2008-01-01T23:00:07+10:00",
+  "start_date": "2008-01-01T23:00:07+10:00",
   "socials": [
 
   ],
   "tags": [
-
+    "blog"
   ],
   "categories": [
     "writing"
@@ -990,8 +1050,12 @@ const adelaidesucks: ProjectData =
   "links": [
     {
       "title": "Website",
-      "link": "https://.blogspot.com/"
-    }
+      "link": "https://adelaidesucks.blogspot.com/"
+    },
+    // {
+    //   "title": "Github",
+    //   "link": "https://github.com/dottjt/"
+    // }
   ]
 }
 
@@ -999,32 +1063,37 @@ const melbournesucks: ProjectData =
 {
   "slug": "melbournesucks",
   "title": "melbournesucks",
-  "japanese_title": "おっぱい melbournesucks",
+  "japanese_title": "メルボルン melbournesucks",
   "excerpt": "blogspot. blogspot. blogspot.",
   "description": "\
-.\
+The follow up to Adelaidesucks. Ah, the imagination of a 15 year old child.\
 ",
   "featured_image": "",
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
   "date": "date_value",
-    "start_date": "2009-01-01T23:00:07+10:00",
   "end_date": "2009-01-01T23:00:07+10:00",
+  "start_date": "2009-01-01T23:00:07+10:00",
   "socials": [
 
   ],
   "tags": [
-
+    "blog"
   ],
   "categories": [
     "writing"
   ],
   "links": [
+
     {
       "title": "Website",
-      "link": "https://.blogspot.com/"
-    }
+      "link": "https://melbournesucks.blogspot.com/"
+    },
+    // {
+    //   "title": "Github",
+    //   "link": "https://github.com/dottjt/"
+    // }
   ]
 }
 
@@ -1032,23 +1101,23 @@ const sydneysucks: ProjectData =
 {
   "slug": "sydneysucks",
   "title": "sydneysucks",
-  "japanese_title": "おっぱい sydneysucks",
+  "japanese_title": "シドニー sydneysucks",
   "excerpt": "blogspot. blogspot. blogspot.",
   "description": "\
-.\
+A more grander version of MelbourneSucks. A teenage blog of sorts.\
 ",
   "featured_image": "",
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
   "date": "date_value",
-    "start_date": "2009-01-01T23:00:07+10:00",
   "end_date": "2009-01-01T23:00:07+10:00",
+  "start_date": "2009-01-01T23:00:07+10:00",
   "socials": [
 
   ],
   "tags": [
-
+    "blog"
   ],
   "categories": [
     "writing"
@@ -1056,28 +1125,33 @@ const sydneysucks: ProjectData =
   "links": [
     {
       "title": "Website",
-      "link": "https://.blogspot.com/"
-    }
+      "link": "https://sydneysucks.blogspot.com/"
+    },
+    // {
+    //   "title": "Github",
+    //   "link": "https://github.com/dottjt/"
+    // }
   ]
 }
-
 
 const hobartsucks: ProjectData =
 {
   "slug": "hobartsucks",
   "title": "hobartsucks",
-  "japanese_title": "おっぱい hobartsucks",
+  "japanese_title": "ホバート hobartsucks",
   "excerpt": "blogspot. blogspot. blogspot.",
   "description": "\
-.\
+I have literally no idea what was on this blog, if anything at all. \
+Unfortunately I don't have the logins for these blogs anymore, \
+although luckily I still have all the content in word files.\
 ",
   "featured_image": "",
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
   "date": "date_value",
-    "start_date": "2009-01-01T23:00:07+10:00",
   "end_date": "2009-01-01T23:00:07+10:00",
+  "start_date": "2009-01-01T23:00:07+10:00",
   "socials": [
 
   ],
@@ -1090,27 +1164,33 @@ const hobartsucks: ProjectData =
   "links": [
     {
       "title": "Website",
-      "link": "https://.blogspot.com/"
-    }
+      "link": "https://hobartsucks.blogspot.com/"
+    },
+    // {
+    //   "title": "Github",
+    //   "link": "https://github.com/dottjt/"
+    // }
   ]
 }
 
 const perthsucks: ProjectData =
 {
   "slug": "perthsucks",
-  "title": "perthsucks",
-  "japanese_title": "おっぱい perthsucks",
+  "title": "Perthsucks",
+  "japanese_title": "パース Perthsucks",
   "excerpt": "blogspot. blogspot. blogspot.",
   "description": "\
-.\
+I honestly don't rememeber.\ All I know was that this was a thing \
+a some point during my sad lonely teenage life, that should have been \
+spent partying and getting drunk. Alas, not.\
 ",
   "featured_image": "",
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
   "date": "date_value",
-    "start_date": "2009-01-01T23:00:07+10:00",
   "end_date": "2009-01-01T23:00:07+10:00",
+  "start_date": "2009-01-01T23:00:07+10:00",
   "socials": [
 
   ],
@@ -1123,27 +1203,31 @@ const perthsucks: ProjectData =
   "links": [
     {
       "title": "Website",
-      "link": "https://.blogspot.com/"
-    }
+      "link": "https://perthsucks.blogspot.com/"
+    },
+    // {
+    //   "title": "Github",
+    //   "link": "https://github.com/dottjt/"
+    // }
   ]
 }
 
-const perthsucks: ProjectData =
+const darwinsucks: ProjectData =
 {
-  "slug": "perthsucks",
-  "title": "perthsucks",
-  "japanese_title": "おっぱい perthsucks",
+  "slug": "darwinsucks",
+  "title": "Darwinsucks",
+  "japanese_title": "ダーウィン Darwinsucks",
   "excerpt": "blogspot. blogspot. blogspot.",
   "description": "\
-.\
+I rememeber this consisted of shittily drawn images I created.\
 ",
   "featured_image": "",
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
   "date": "date_value",
-    "start_date": "2009-01-01T23:00:07+10:00",
   "end_date": "2009-01-01T23:00:07+10:00",
+  "start_date": "2009-01-01T23:00:07+10:00",
   "socials": [
 
   ],
@@ -1156,8 +1240,12 @@ const perthsucks: ProjectData =
   "links": [
     {
       "title": "Website",
-      "link": "http://perthsucks.blogspot.com/"
-    }
+      "link": "http://darwinsucks.blogspot.com/"
+    },
+    // {
+    //   "title": "Github",
+    //   "link": "https://github.com/dottjt/"
+    // }
   ]
 }
 
@@ -1170,61 +1258,62 @@ const theFinancialReality201516: ProjectData =
   "japanese_title": "融通の The Financial Reality",
   "excerpt": "youtube. youtube. youtube.",
   "description": "\
-I thought I could make financial comedy work. I almost did, if it weren't for my bipolar.\
+I went absolutely off the rails. Some of my favourite work.\
 ",
   "featured_image": "",
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
   "date": "date_value",
-    "start_date": "2012-01-01T23:00:07+10:00",
   "end_date": "2013-01-01T23:00:07+10:00",
+  "start_date": "2012-01-01T23:00:07+10:00",
   "socials": [
 
   ],
   "tags": [
-
+    "comedy"
   ],
   "categories": [
-    "yeah"
+    "youtube"
   ],
   "links": [
     {
-      "title": "title_value",
-      "link": "https://"
+      "title": "Youtube",
+      "link": "https://www.youtube.com/playlist?list=PL2UfH_nmiNoUqZUvUVT3SclR8VLnT6Uss"
     }
   ]
 }
 
 const theFinancialReality201213: ProjectData =
 {
-  "slug": "the-financial-reality-2015-16",
+  "slug": "the-financial-reality-2012-13",
   "title": "The Financial Reality",
   "japanese_title": "融通の The Financial Reality",
   "excerpt": "youtube. youtube. youtube.",
   "description": "\
-I went a bit off the rails and created a bunch of videos that I think I regret.\
+I thought I could make financial comedy work. \
+I did, but didn't. I was niche.\
 ",
   "featured_image": "",
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
   "date": "date_value",
-    "start_date": "2015-01-01T23:00:07+10:00",
-  "end_date": "2016-01-01T23:00:07+10:00",
+  "end_date": "2013-01-01T23:00:07+10:00",
+  "start_date": "2012-01-01T23:00:07+10:00",
   "socials": [
 
   ],
   "tags": [
-    "youtube"
+    "comedy"
   ],
   "categories": [
-    "yeah"
+    "youtube"
   ],
   "links": [
     {
-      "title": "title_value",
-      "link": "https://"
+      "title": "Youtube",
+      "link": "https://www.youtube.com/watch?v=GUYhQFnkmCg&list=PL2UfH_nmiNoXYSAUk8CVDPzoxYAAzkoGR"
     }
   ]
 }
@@ -1236,61 +1325,62 @@ const theFinancialReality2011: ProjectData =
   "japanese_title": "融通の The Financial Reality",
   "excerpt": "youtube. youtube. youtube.",
   "description": "\
-I went a bit off the rails and created a bunch of videos that I think I regret.\
+It wasn't the first YouTube video I did, but it went viral and that was pretty cooool.\
 ",
   "featured_image": "",
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
   "date": "date_value",
-    "start_date": "2015-01-01T23:00:07+10:00",
-  "end_date": "2016-01-01T23:00:07+10:00",
+  "end_date": "2011-01-01T23:00:07+10:00",
+  "start_date": "2011-01-01T23:00:07+10:00",
   "socials": [
 
   ],
   "tags": [
-    "youtube"
+    "comedy"
   ],
   "categories": [
-    "yeah"
+    "youtube"
   ],
   "links": [
     {
-      "title": "title_value",
-      "link": "https://"
+      "title": "Youtube",
+      "link": "https://www.youtube.com/user/thefinancialreality"
     }
   ]
 }
 
 const juliusIsMyName: ProjectData =
 {
-  "slug": "the-financial-reality-2015-16",
-  "title": "The Financial Reality",
-  "japanese_title": "融通の The Financial Reality",
+  "slug": "julius-is-my-name",
+  "title": "Julius Is My Name",
+  "japanese_title": "ジュリアス Julius Is My Name",
   "excerpt": "youtube. youtube. youtube.",
   "description": "\
-I went a bit off the rails and created a bunch of videos that I think I regret.\
+My 2nd serious attempt at a YouTube comedy channel. \
+It did not suffice.\
 ",
   "featured_image": "",
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
   "date": "date_value",
-    "start_date": "2015-01-01T23:00:07+10:00",
-  "end_date": "2016-01-01T23:00:07+10:00",
+  "end_date": "2009-01-01T23:00:07+10:00",
+  "start_date": "2009-01-01T23:00:07+10:00",
   "socials": [
 
   ],
   "tags": [
-
+    "comedy"
   ],
   "categories": [
-    "yeah"
+    "youtube"
   ],
   "links": [
     {
-      "title": "title_value",
-      "link": "https://"
+      "title": "YouTube",
+      "link": "https://www.youtube.com/playlist?list=PL7C75E66499028BB8"
     }
   ]
 }
@@ -1302,28 +1392,29 @@ const backHandFilms: ProjectData =
   "japanese_title": "バックハンド Back Hand Films",
   "excerpt": "youtube. youtube. youtube.",
   "description": "\
-I went a bit off the rails and created a bunch of videos that I think I regret.\
+The very first YouTube channel I created with a friend, with the intention of becoming \
+famous YouTube stars. Obviously that didn't pan out.\
 ",
   "featured_image": "",
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
   "date": "date_value",
-    "start_date": "2015-01-01T23:00:07+10:00",
   "end_date": "2016-01-01T23:00:07+10:00",
+  "start_date": "2015-01-01T23:00:07+10:00",
   "socials": [
 
   ],
   "tags": [
-
+    "comedy"
   ],
   "categories": [
-    "yeah"
+    "youtube"
   ],
   "links": [
     {
-      "title": "title_value",
-      "link": "https://"
+      "title": "YouTube",
+      "link": "https://www.youtube.com/user/BackHandFilms"
     }
   ]
 }
@@ -1332,18 +1423,21 @@ I went a bit off the rails and created a bunch of videos that I think I regret.\
 
 const theWritersDaily: ProjectData =
 {
-  "slug": "neverfap-deluxe",
-  "title": "NeverFap Deluxe",
-  "date": "date_value": "2020-05-12T05:43:32+10:00",,
-  "end_date": "2020-05-12T05:43:32+10:00",
-  "start_date": "2020-05-12T05:43:32+10:00",
+  "slug": "the-writers-daily",
+  "title": "The Writer's Daily",
+  "japanese_title": "毎日 The Writer's Daily",
+  "excerpt": "daily. daily. daily.",
   "description": "\
-I used to suffer from porn addiction. Then I overcame it and I wanted to help others do the same too. There's a website, subreddit, . Hell we even have a mobile app.\
+While I was writing my novel, it occurred to me that I'll need some kind of platform to establish myself. \
+Alas, this podcast was created. It is absolutely insane.\
 ",
   "featured_image": "",
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
+  "date": "date_value",
+  "end_date": "present",
+  "start_date": "2020-05-18T05:43:32+10:00",
   "links": [
     {
       "title": "",
@@ -1360,7 +1454,7 @@ I used to suffer from porn addiction. Then I overcame it and I wanted to help ot
 
   ],
   "categories": [
-    "coding",
+    "podcast",
   ]
 }
 
@@ -1368,23 +1462,26 @@ const theNeverfapDeluxeMeditationSeries: ProjectData =
 {
   "slug": "the-neverfap-deluxe-meditation-series",
   "title": "The NeverFap Deluxe Meditation Series",
-  "date": "date_value",
-  "end_date": "2020-05-12T05:43:32+10:00",
-  "start_date": "2020-05-12T05:43:32+10:00",
+  "japanese_title": "瞑想 The NeverFap Deluxe Meditation Series",
+  "excerpt": "meditation. meditation. meditation.",
   "description": "\
-I used to suffer from porn addiction. Then I overcame it and I wanted to help others do the same too. There's a website, subreddit, . Hell we even have a mobile app.\
+I decided to record a free meditation series. The first few iterations are pretty awful but I figured it out in the end. \
 ",
   "featured_image": "",
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
+  "date": "date_value",
+  "end_date": "2020-05-12T05:43:32+10:00",
+  "start_date": "2020-05-12T05:43:32+10:00",
   "links": [
     {
-      "title": "",
+      "title": "Castbox",
       "link": "https://neverfapdeluxe.com/"
     },
-    { "title": "",
-      "link": "https;"
+    {
+      "title": "SoundCloud",
+      "link": "https://soundcloud.com/neverfapdeluxe/"
     }
   ],
   "socials": [
@@ -1394,7 +1491,7 @@ I used to suffer from porn addiction. Then I overcame it and I wanted to help ot
 
   ],
   "categories": [
-    "coding",
+    "podcast",
   ]
 }
 
@@ -1402,9 +1499,8 @@ const theNeverfapDeluxePodcast: ProjectData =
 {
   "slug": "the-neverfap-deluxe-podcast",
   "title": "The NeverFap Deluxe Podcast",
-  "date": "date_value": "2020-05-12T05:43:32+10:00",,
-  "end_date": "2020-05-12T05:43:32+10:00",
-  "start_date": "2020-05-12T05:43:32+10:00",
+  "japanese_title": "フラップ The NeverFap Deluxe Podcast",
+  "excerpt": "fap. fap. fap.",
   "description": "\
 I used to suffer from porn addiction. Then I overcame it and I wanted to help others do the same too. There's a website, subreddit, . Hell we even have a mobile app.\
 ",
@@ -1412,13 +1508,17 @@ I used to suffer from porn addiction. Then I overcame it and I wanted to help ot
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
+  "date": "date_value",
+  "end_date": "2020-08-18T05:43:32+10:00", // correct (castbox)
+  "start_date": "2020-03-09T05:43:32+10:00", // correct (castbox)
   "links": [
     {
-      "title": "",
-      "link": "https://neverfapdeluxe.com/"
+      "title": "Website",
+      "link": "https://neverfapdeluxe.com/podcast"
     },
-    { "title": "",
-      "link": "https;"
+    {
+      "title": "Castbox",
+      "link": "https://castbox.fm/channel/id2045024?country=us"
     }
   ],
   "socials": [
@@ -1428,7 +1528,7 @@ I used to suffer from porn addiction. Then I overcame it and I wanted to help ot
 
   ],
   "categories": [
-    "coding",
+    "podcast",
   ]
 }
 
@@ -1439,15 +1539,16 @@ const drudgeReportReport: ProjectData =
   "japanese_title": "がり勉 The Drudge Report Report",
   "excerpt": "podcast. podcast. podcast.",
   "description": "\
-A podcast based on news from Drudge Report. It was a comedy podcast.\
+A comedy podcast based on news from Drudge Report. \
+Oh, the things I did for fame.\
 ",
   "featured_image": "",
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
   "date": "date_value",
-    "start_date": "2012-01-01T23:00:07+10:00",
   "end_date": "2013-01-01T23:00:07+10:00",
+  "start_date": "2012-01-01T23:00:07+10:00",
   "socials": [
 
   ],
@@ -1455,12 +1556,16 @@ A podcast based on news from Drudge Report. It was a comedy podcast.\
 
   ],
   "categories": [
-    "yeah"
+    "podcast"
   ],
   "links": [
     {
-      "title": "title_value",
-      "link": "https://"
+      "title": "YouTube",
+      "link": "https://www.youtube.com/user/DrudgeReportReport"
+    },
+    {
+      "title": "iTunes",
+      "link": "https://podcasts.apple.com/at/podcast/drudge-report-report/id562831680?l=en"
     }
   ]
 }
@@ -1472,15 +1577,16 @@ const theZerohedgeDailyRoundup: ProjectData =
   "japanese_title": "ゼロ The Zerohedge Daily Roundup",
   "excerpt": "podcast. podcast. podcast.",
   "description": "\
-A podcast based on news from Zero Hedge. What I produced in the end was a very odd subset of sardonic, financial comedy.\
+A podcast based on news stories from Zero Hedge. \
+Ultimately what I ended up producing was a financial comedy podcast. Crazy times.\
 ",
   "featured_image": "",
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
   "date": "date_value",
-  "start_date": "2012-01-01T23:00:07+10:00",
   "end_date": "2012-01-01T23:00:07+10:00",
+  "start_date": "2012-01-01T23:00:07+10:00",
   "socials": [
 
   ],
@@ -1488,12 +1594,12 @@ A podcast based on news from Zero Hedge. What I produced in the end was a very o
 
   ],
   "categories": [
-    "yeah"
+    "podcast"
   ],
   "links": [
     {
-      "title": "title_value",
-      "link": "https://"
+      "title": "iTunes",
+      "link": "https://podcasts.apple.com/us/podcast/the-zero-hedge-daily-round-up/id494219092"
     }
   ]
 }
@@ -1505,15 +1611,15 @@ const weTalkYouDie: ProjectData =
   "japanese_title": "トーク We Talk, You Die",
   "excerpt": "podcast. podcast. podcast.",
   "description": "\
-A podcast which was a compilation of all the radio shows I did with a friend.\
+The podcast is a compilation of all the radio shows I did with a friend from ye good ol' days.\
 .",
   "featured_image": "",
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
   "date": "date_value",
-    "start_date": "2011-01-01T23:00:07+10:00",
   "end_date": "2011-01-01T23:00:07+10:00",
+  "start_date": "2011-01-01T23:00:07+10:00",
   "socials": [
 
   ],
@@ -1521,7 +1627,7 @@ A podcast which was a compilation of all the radio shows I did with a friend.\
 
   ],
   "categories": [
-    "yeah"
+    "podcast"
   ],
   "links": [
     {
@@ -1548,8 +1654,8 @@ Even though I did it for three years, it wasn't very enjoyable and I wasn't very
   "draft": false,
   "status": Status.Archive,
   "date": "date_value",
-  "start_date": "2012-01-01T23:00:07+10:00",
   "end_date": "2015-01-01T23:00:07+10:00",
+  "start_date": "2012-01-01T23:00:07+10:00",
   "socials": [
 
   ],
@@ -1571,15 +1677,16 @@ const theFaptacularOneHourSpecial: ProjectData =
   "japanese_title": "The Faptacular One Hour Special",
   "excerpt": "radio. radio. radio.",
   "description": "\
-I think it was trying to be this Hamish and Andy type thing, but it didn't really work out.\
+I think it was trying to be this Hamish and Andy type thing, but it didn't really work out. \
+Broadcast on Radio Monash.\
 ",
   "featured_image": "",
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
   "date": "date_value",
-  "start_date": "2011-01-01T23:00:07+10:00",
   "end_date": "2011-01-01T23:00:07+10:00",
+  "start_date": "2011-01-01T23:00:07+10:00",
   "socials": [
 
   ],
@@ -1601,15 +1708,15 @@ const crackAFat: ProjectData =
   "japanese_title": "クラック CRACK A FAT",
   "excerpt": "radio. radio. radio.",
   "description": "\
-A music radio show I did with a friend.\
+A music show I did with a friend on 3SSR.\
 ",
   "featured_image": "",
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
   "date": "date_value",
-  "start_date": "2011-01-01T23:00:07+10:00",
   "end_date": "2011-01-01T23:00:07+10:00",
+  "start_date": "2011-01-01T23:00:07+10:00",
   "socials": [
 
   ],
@@ -1638,8 +1745,8 @@ I wanted to do a show about conspiracy theories. It was okay.\
   "draft": false,
   "status": Status.Archive,
   "date": "date_value",
-  "start_date": "2011-01-01T23:00:07+10:00",
   "end_date": "2011-01-01T23:00:07+10:00",
+  "start_date": "2011-01-01T23:00:07+10:00",
   "socials": [
 
   ],
@@ -1668,8 +1775,8 @@ I wanted to produce an edgy radio show about finance. It was super lame.\
   "draft": false,
   "status": Status.Archive,
   "date": "date_value",
-  "start_date": "2011-01-01T23:00:07+10:00",
   "end_date": "2011-01-01T23:00:07+10:00",
+  "start_date": "2011-01-01T23:00:07+10:00",
   "socials": [
 
   ],
@@ -1698,8 +1805,8 @@ The first radio show I ever did. I was 16 years old at the time.\
   "draft": false,
   "status": Status.Archive,
   "date": "date_value",
-  "start_date": "2009-01-01T23:00:07+10:00",
   "end_date": "2010-01-01T23:00:07+10:00",
+  "start_date": "2009-01-01T23:00:07+10:00",
   "socials": [
 
   ],
@@ -1736,8 +1843,8 @@ const projectsCoding: ProjectData[] = [
 
 const projectsWriting: ProjectData[] = [
   howToKillAChinaman,
-  juliusReadeBlog2016,
   medium,
+  juliusReadeBlog2016,
   perspectiveTheory,
   elegantlyAttached,
   brokenHeartsAndFracturedSmiles,
@@ -1748,8 +1855,9 @@ const projectsWriting: ProjectData[] = [
   adelaidesucks,
   melbournesucks,
   sydneysucks,
-  perthsucks,
   hobartsucks,
+  perthsucks,
+  darwinsucks,
 ];
 
 const projectsPodcast: ProjectData[] = [
@@ -1778,7 +1886,7 @@ const projectsRadio: ProjectData[] = [
   justAnotherTopicalAfternoon
 ];
 
-const projectDataList: ProjectData[] =
+export const projectDataList: ProjectData[] =
   projectsRadio
     .concat(projectsCoding)
     .concat(projectsWriting)
@@ -1786,18 +1894,8 @@ const projectDataList: ProjectData[] =
     .concat(projectsYouTube)
     .concat(projectsRadio)
 
-export type FinalProjectExport = {
-  projectDataList: ProjectData[];
-  projectCategories: string[];
-  // projectsSortByDate: ProjectData[];
-}
+export const projectCategories: string[] = ['todo'];
 
-const final: FinalProjectExport = {
-  projectDataList,
-  projectCategories: ["st"],
-  // projectsSortByDate
-};
-
-module.exports = final;
+// export const projectsSortByDate: ProjectData[] = ['todo']
 
 // I'm guessing it truly makes sense to sort by end-date.

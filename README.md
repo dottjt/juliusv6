@@ -17,4 +17,7 @@ Essentially it was created to cater for my intended writing career. Stay tuned.
 // util that lists all the categories being used.
 
 
-// TODO Maybe it makes sense to actually 
+// TODO Maybe it makes sense to actually
+
+// TODO I stupidly omitted the actual content files for V2 of the website. I will need to upload them to the repository, assuming I can even find them. We shall see. YUS.
+// TODO Need to figure out the build for julius v4 website.
