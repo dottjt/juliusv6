@@ -1,3 +1,8 @@
 baseURL = "https://juliusreade.com/"
-languageCode = "en-us"
-title = "Julius Reade Website"
+languageCode = "en-gb"
+title = "Julius Reade"
+theme = "reade"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"

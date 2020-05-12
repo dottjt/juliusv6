@@ -1,0 +1,32 @@
+# OS
+themes/reade/.DS_Store
+themes/reade/Thumbs.db
+
+themes/reade/# IDEs
+themes/reade/.buildpath
+themes/reade/.project
+themes/reade/.settings/
+themes/reade/.build/
+themes/reade/.idea/
+themes/reade/public/
+themes/reade/nbproject/
+
+themes/reade/# Vagrant
+themes/reade/.vagrant/
+
+themes/reade/# FE Setup
+themes/reade/.bin/node_modules/
+themes/reade/node_modules/
+themes/reade/src/node_modules/
+themes/reade/src/npm-debug.log.*
+themes/reade/npm-debug.log
+themes/reade/npm-debug.log*
+themes/reade/dist/
+themes/reade/src/client.config.json
+themes/reade/styleguide/
+themes/reade/docs/
+
+themes/reade/junit.xml
+themes/reade/partials/structure/stylesheet.html
+
+node_modules
