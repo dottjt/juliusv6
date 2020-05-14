@@ -3,5 +3,6 @@ export var Status;
 (function (Status) {
     Status["Active"] = "active";
     Status["Archive"] = "archive";
+    Status["Incomplete"] = "incomplete";
 })(Status || (Status = {}));
 ;

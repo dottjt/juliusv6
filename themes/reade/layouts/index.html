@@ -1,25 +1,105 @@
 {{ define "main" }}
-  <h1 class="title">Julius Reade</h1>
+  <div class="main" >
+    <section class="section__active">
 
-  <h3>I want to rip your face off.</h3>
+      <img class="images/me/cool2.png"/>
 
-  <section>
-    <h4>Active</h4>
-    <h2>{{ with .Site.GetPage "/projects/podcast/the-writers-daily.md" }}{{ .Title }}{{ end }}</h2>
+      <div class="section__active__part section__active__twd">
+        <div class="section__active__twd__top">
+          <div class="box">
+            <h2>The Writer's Daily <i class="em em-studio_microphone" aria-role="presentation" aria-label=""></i></h2>
+            <p class="text">The Writer's Daily is a podcast. </i></p>
+            <p class="text">It's an anthem of storytelling, new ideas, discussion, writing, inspiration and everything else in-between.</p>
 
-    <p>The Writer's Daily</p>
+            <div>
+              <p class="hashtag">#thewritersdaily</p>
+            </div>
+          </div>
+          <div class="centre">
+            <a href="https://thewritersdaily.juliusreade.com/">
+              <img class="twd__logo" src="images/twd/logo_512_non_transparent.png" />
+            </a>
+          </div>
+        </div>
 
-    <h2>{{ with .Site.GetPage "/projects/writing/how-to-kill-a-chinaman.md" }}{{ .Title }}{{ end }}</h2>
+        <div class="section__active__twd__bottom">
+          <div>
+            <h3>Links</h3>
+            <div class="header__bottom homepage__links">
+              <a href="/about">About</a>
+            </div>
+          </div>
+        </div>
+      </div>
 
-    <h2>NeverFap Deluxe</h2>
-  </section>
+      <div class="section__border"></div>
 
-  <section>
-    <h4>Archive</h4>
+      <div class="section__active__part section__active__twd">
+        <div class="section__active__twd__top">
+          <div class="box">
+            <h2>{{ with .Site.GetPage "/projects/writing/how-to-kill-a-chinaman.md" }}{{ .Title }}{{ end }} <i class="em em-closed_book" aria-role="presentation" aria-label="CLOSED BOOK"></i></h2>
+            <p class="text">How to kill a Chinaman is a novel.</p>
+            <p class="text">It's what I spend most my spare time doing and I intend to complete the manuscript sometime in 2021.</p>
+            <p class="hashtag">#howtokillachinaman</p>
+          </div>
+          <div class="centre">
+            <img class="twd__logo" src="images/htkac/cover_alt.png" />
+          </div>
+        </div>
 
-    
+        <div class="section__active__twd__bottom">
+          <div>
+            <h3>Links</h3>
+            <div class="header__bottom homepage__links">
+              <a href="/about">About</a>
+            </div>
+          </div>
+        </div>
+      </div>
 
-  </section>
+      <div class="section__border"></div>
+
+      <div class="section__active__part section__active__twd">
+        <div class="section__active__twd__top">
+          <div class="box">
+            <h2>{{ with .Site.GetPage "/projects/coding/neverfap-deluxe.md" }}{{ .Title }}{{ end }} <i class="em em-globe_with_meridians" aria-role="presentation" aria-label="GLOBE WITH MERIDIANS"></i></h2>
+            <p class="text">NeverFap Deluxe is a website.</p>
+            <p class="text">In 2019 I overcame pornography addiction and I wanted to help others do the same too.</p>
+            <p class="hashtag">#neverfapdeluxe</p>
+          </div>
+          <div class="centre">
+            <img class="twd__logo" src="images/logo__out__512.png" />
+          </div>
+        </div>
+
+        <div class="section__active__twd__bottom">
+          <div>
+            <h3>Links</h3>
+            <div class="header__bottom homepage__links">
+              <a href="https://neverfapdeluxe.com/">Website</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </section>
+
+    <div class="section__border"></div>
+
+    <section class="section__archive">
+      <h3>Archive</h3>
+
+      <div>
+        <!-- orders content according to the "date" field in front matter -->
+        {{ range where .Site.Pages.ByDate.Reverse "Section" "projects" }}
+          <div style="display: flex; justify-content: center; align-items: center;">
+            <h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+            <time>{{ .Date.Format "Mon, Jan 2, 2006" }}</time>
+          </div>
+        {{ end }}
+      </div>
+
+    </section>
 
   <!-- <article class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy mid-gray">
     {{ .Content }}
@@ -74,4 +154,5 @@
 
       </div>
   {{ end }} -->
+  </div>
 {{ end }}

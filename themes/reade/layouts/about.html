@@ -1,29 +1,4 @@
 {{ define "main" }}
-  <h1 class="title">Julius Reade</h1>
-
-  <h3>I want to rip your face off.</h3>
-
-  <section>
-    <h4>Active</h4>
-    <h2>{{ with .Site.GetPage "/projects/podcast/the-writers-daily.md" }}{{ .Title }}{{ end }}</h2>
-
-    <p>The Writer's Daily is a podcast about expression.</p>
-
-    <h2>{{ with .Site.GetPage "/projects/writing/how-to-kill-a-chinaman.md" }}{{ .Title }}{{ end }}</h2>
-
-    <p>How to Kill a Chinaman is the title of the upcoming novel I'm writing.</p>
-
-    <h2>{{ with .Site.GetPage "/projects/writing/neverfap-deluxe.md" }}{{ .Title }}{{ end }}</h2>
-    <p>>NeverFap Deluxe</p>
-
-  </section>
-
-  <section>
-    <h4>Archive</h4>
-
-
-
-  </section>
 
   <!-- <article class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy mid-gray">
     {{ .Content }}

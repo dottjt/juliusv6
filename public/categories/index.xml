@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Julius Reade</title>
+    <link>https://juliusreade.com/categories/</link>
+    <description>Recent content in Categories on Julius Reade</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    
+	<atom:link href="https://juliusreade.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>coding</title>
+      <link>https://juliusreade.com/categories/coding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliusreade.com/categories/coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>podcast</title>
+      <link>https://juliusreade.com/categories/podcast/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliusreade.com/categories/podcast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>radio</title>
+      <link>https://juliusreade.com/categories/radio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliusreade.com/categories/radio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>writing</title>
+      <link>https://juliusreade.com/categories/writing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliusreade.com/categories/writing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>yeah</title>
+      <link>https://juliusreade.com/categories/yeah/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliusreade.com/categories/yeah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>youtube</title>
+      <link>https://juliusreade.com/categories/youtube/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliusreade.com/categories/youtube/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

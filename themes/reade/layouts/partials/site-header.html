@@ -1,4 +1,20 @@
-{{ $featured_image := .Param "featured_image"}}
+<div class="header">
+  <a class="header__title__wrapper" href="/"><h4 class="header__title">Julius Reade</h4></a>
+</div>
+
+<div class="section__border"></div>
+<!-- <div class="section__border__two"></div> -->
+
+<div class="header__bottom homepage__links">
+  <!-- <a href="https://medium.com/@JuliusReade">Writing</a>
+  <a href="https://www.linkedin.com/in/juliusreade/">LinkedIn</a>
+  <a href="https://twitter.com/juliusreade">Twitter</a>
+  <a href="https://github.com/dottjt">Github</a> -->
+  <a href="/projects">Projects</a>
+  <a href="/about">About</a>
+</div>
+
+<!-- {{ $featured_image := .Param "featured_image"}}
 {{ if $featured_image }}
   {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
   {{ $featured_image := (trim $featured_image "/") | absURL }}
@@ -33,4 +49,4 @@
       </div>
     </div>
   </header>
-{{ end }}
+{{ end }} -->

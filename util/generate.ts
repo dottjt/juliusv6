@@ -5,14 +5,13 @@ import fetch from 'node-fetch';
 
 const validateProjectUrls = async (projectData: ProjectData): Promise<void> => {
   const links =
-  projectData.links
-    .concat(projectData.socials)
-    .map(obj => obj.link);
+    projectData.links
+      .concat(projectData.socials)
+      .map(obj => obj.link);
 
   for (const link of links) {
     const response = await fetch(link);
-
-    if (response?.data?.status !== 200) {
+    if (response?.status !== 200) {
       console.log(`${link} does not seem to be returning a 200.`);
     }
   }
@@ -21,7 +20,7 @@ const validateProjectUrls = async (projectData: ProjectData): Promise<void> => {
 const getFilePath = (projectData: ProjectData): string => {
   const category: string = projectData.categories[0];
   const slug: string = projectData.slug;
-  return `../content/projects/${category}/${slug}.md`;
+  return path.join(__dirname, '..', `/content/projects/${category}/${slug}.md`);
 };
 
 const getFileContents = (projectData: ProjectData): string => {
@@ -30,18 +29,19 @@ const getFileContents = (projectData: ProjectData): string => {
 
 export const generateHugoMDFiles = async (projectDataList: ProjectData[]): Promise<void> => {
   try {
-    console.log(__dirname);
-    console.log(path.join(__dirname));
-    // fse.removeSync('../content');
+    fse.removeSync(path.join(__dirname, '..', 'content', 'projects'));
+    console.log('removed /content/projects folder.');
 
     for (const projectData of projectDataList) {
-      await validateProjectUrls(projectData);
+      // await validateProjectUrls(projectData);
 
       const filePath = getFilePath(projectData);
+      console.log(filePath);
       const fileContents = getFileContents(projectData);
       fse.outputFileSync(filePath, fileContents);
     }
 
+    console.log('finished template creation.')
   } catch(error) {
     throw new Error(`generateHugoMDFiles - ${error}`);
   }

@@ -17,7 +17,7 @@ It's basically been designed with my writing career in mind.\
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Active,
-  "date": "date_value",
+  "date": "2020-05-12T05:43:32+10:00", // correct (commit)
   "end_date": "present", // correct
   "start_date": "2020-05-12T05:43:32+10:00", // correct (commit)
   "links": [
@@ -27,7 +27,7 @@ It's basically been designed with my writing career in mind.\
     },
     {
       "title": "Github",
-      "link": `https://github.com/dottjt/juliusv6`
+      "link": `https://github.com/dottjt/juliusv6/`
     }
   ],
   "socials": [
@@ -55,9 +55,9 @@ who traditionally struggle with meditation. There is a web app, as well as a mob
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Active,
-  "date": "date_value",
-  "end_date": "2019-08-20T05:43:32+10:00", // correct (commit)
-  "start_date": "2020-08-05T05:43:32+10:00", // correct (commit)
+  "date": "2020-08-05", // correct (commit)
+  "end_date": "2019-08-20", // correct (commit)
+  "start_date": "2020-08-05", // correct (commit)
   "links": [
     {
       "title": "Website",
@@ -103,7 +103,7 @@ Hell we even have a mobile app too.\
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Active,
-  "date": "date_value",
+  "date": "2019-01-15T05:43:32+10:00", // correct (first commit of NFD-API)
   "end_date": "present", // correct
   "start_date": "2019-01-15T05:43:32+10:00", // correct (first commit of NFD-API)
   "links": [
@@ -149,9 +149,9 @@ A minimalistic personal website designed for the purposes of my coding career.\
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "date_value",
-  "end_date": "2019-09-01T05:43:32+10:00", // correct (commit)
-  "start_date": "2019-01-21T05:43:32+10:00", // correct (commit)
+  "date": "2019-01-21", // correct (commit)
+  "end_date": "2019-09-01", // correct (commit)
+  "start_date": "2019-01-21", // correct (commit)
   "links": [
     {
       "title": "Website",
@@ -189,9 +189,9 @@ machine learning simply wasn't for me.\
   "background_image": "images/cool/coolg.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "date_value",
-  "end_date": "2019-10-03T23:00:07+10:00", // correct (commit) // I'm sure I worked on this well-before here
-  "start_date": "2019-10-03T23:00:07+10:00", // correct (commit)
+  "date": "2019-10-03", // correct (commit)
+  "end_date": "2019-10-03", // correct (commit) // I'm sure I worked on this well-before here
+  "start_date": "2019-10-03", // correct (commit)
   "socials": [
 
   ],
@@ -225,9 +225,9 @@ taking an ML approach made more sense in the end.\
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "date_value",
-  "end_date": "2018-12-04T05:43:32+10:00", // correct (commit)
-  "start_date": "2018-10-15T05:43:32+10:00", // correct (commit)
+  "date": "2018-10-15", // correct (commit)
+  "end_date": "2018-12-04", // correct (commit)
+  "start_date": "2018-10-15", // correct (commit)
   "links": [
     // {
     //   "title": "Website",
@@ -235,7 +235,7 @@ taking an ML approach made more sense in the end.\
     // },
     {
       "title": "Github",
-      "link": "https://github.com/dottjt/watashi-engine "
+      "link": "https://github.com/dottjt/watashi-engine/"
     }
   ],
   "socials": [
@@ -262,9 +262,9 @@ Possibly one of the worst websites I've ever put to my name. \
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "date_value",
-  "end_date": "2018-06-14T05:43:32+10:00", // correct (commit)
-  "start_date": "2018-05-31T05:43:32+10:00", // correct (commit)
+  "date": "2018-05-31", // correct (commit)
+  "end_date": "2018-06-14", // correct (commit)
+  "start_date": "2018-05-31", // correct (commit)
   "links": [
     {
       "title": "Website",
@@ -272,7 +272,7 @@ Possibly one of the worst websites I've ever put to my name. \
     },
     {
       "title": "Github",
-      "link": "https://github.com/dottjt/juliusv4"
+      "link": "https://github.com/dottjt/juliusv4/"
     }
   ],
   "socials": [
@@ -301,9 +301,9 @@ Very proud of this project.\
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "date_value",
-  "end_date": "2018-06-03T05:43:32+10:00", // correct (commit)
-  "start_date": "2018-04-13T05:43:32+10:00", // correct (commit) - I think this started earlier i.e. the other V1 project.
+  "date": "2018-04-13", // correct (commit) - I think this started earlier i.e. the other V1 project.
+  "end_date": "2018-06-03", // correct (commit)
+  "start_date": "2018-04-13", // correct (commit) - I think this started earlier i.e. the other V1 project.
   "links": [
     // {
     //   "title": "Website",
@@ -311,7 +311,7 @@ Very proud of this project.\
     // },
     {
       "title": "Github",
-      "link": "https://github.com/dottjt/analogies"
+      "link": "https://github.com/dottjt/analogies/"
     }
   ],
   "socials": [
@@ -340,9 +340,9 @@ which people could apply to their lives.\
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "date_value",
-  "end_date": "2020-05-12T05:43:32+10:00",
-  "start_date": "2020-05-12T05:43:32+10:00",
+  "date": "2019-05-12",
+  "end_date": "2019-05-12",
+  "start_date": "2019-05-12",
   "links": [
     // {
     //   "title": "Website",
@@ -350,7 +350,7 @@ which people could apply to their lives.\
     // },
     {
       "title": "Github",
-      "link": "https://github.com/dottjt/CharacterJumpTwo"
+      "link": "https://github.com/dottjt/CharacterJumpTwo/"
     }
   ],
   "socials": [
@@ -379,9 +379,9 @@ so it never really saw it's full potential. Regardless, I loved the syle of it.\
   "background_image": "images/cool/coolg.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "date_value",
-  "end_date": "2018-01-01T23:00:07+10:00",
-  "start_date": "2018-01-01T23:00:07+10:00",
+  "date": "2018-01-01",
+  "end_date": "2018-01-01",
+  "start_date": "2018-01-01",
   "socials": [
 
   ],
@@ -394,7 +394,7 @@ so it never really saw it's full potential. Regardless, I loved the syle of it.\
   "links": [
     {
       "title": "Github",
-      "link": "https://github.com/dottjt/juliusv3"
+      "link": "https://github.com/dottjt/juliusv3/"
     }
   ]
 }
@@ -415,9 +415,9 @@ and development environments It's really cool.\
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "date_value",
-  "end_date": "2018-01-01T23:00:07+10:00",
-  "start_date": "2017-01-01T23:00:07+10:00",
+  "date": "2017-01-01",
+  "end_date": "2018-01-01",
+  "start_date": "2017-01-01",
   "socials": [
 
   ],
@@ -430,7 +430,7 @@ and development environments It's really cool.\
   "links": [
     {
       "title": "Github",
-      "link": "https://github.com/dottjt/AwfulCms"
+      "link": "https://github.com/dottjt/AwfulCms/"
     }
   ]
 }
@@ -451,9 +451,9 @@ Actually, I never ended up finishing it, because I realised that it wouldn't mak
   "background_image": "images/cool/coold.jpg",
   "draft": false,
   "status": Status.Incomplete,
-  "date": "date_value",
-  "end_date": "2017-01-01T23:00:07+10:00",
-  "start_date": "2017-01-01T23:00:07+10:00",
+  "date": "2017-01-01",
+  "end_date": "2017-01-01",
+  "start_date": "2017-01-01",
   "socials": [
 
   ],
@@ -466,7 +466,7 @@ Actually, I never ended up finishing it, because I realised that it wouldn't mak
   "links": [
     {
       "title": "title_value",
-      "link": "https://"
+      "link": "https://github.com/dottjt/BetterImageReference/"
     }
   ]
 }
@@ -486,9 +486,9 @@ an utterly piece of crap, but it was an incredible learning experience.\
   "background_image": "",
   "draft": false,
   "status": Status.Archive,
-  "date": "date_value",
-  "end_date": "2017-02-24T23:00:07+10:00", // correct (commit) - I don't think these overall times are correct, only commit times
-  "start_date": "2016-05-16T23:00:07+10:00", // correct (commit) - I don't think these overall times are correct, only commit times
+  "date": "2016-05-16", // correct (commit) - I don't think these overall times are correct, only commit times
+  "end_date": "2017-02-24", // correct (commit) - I don't think these overall times are correct, only commit times
+  "start_date": "2016-05-16", // correct (commit) - I don't think these overall times are correct, only commit times
   "socials": [
 
   ],
@@ -505,7 +505,7 @@ an utterly piece of crap, but it was an incredible learning experience.\
     // }
     {
       "title": "Github",
-      "link": "https://github.com/dottjt/LearningSchedule"
+      "link": "https://github.com/dottjt/LearningSchedule/"
     }
   ]
 }
@@ -525,9 +525,9 @@ I think it looks nice.\
   "background_image": "images/cool/coolg.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "date_value",
-  "end_date": "2018-01-01T23:00:07+10:00",
-  "start_date": "2018-01-01T23:00:07+10:00",
+  "date": "2018-01-01",
+  "end_date": "2018-01-01",
+  "start_date": "2018-01-01",
   "socials": [
 
   ],
@@ -539,8 +539,8 @@ I think it looks nice.\
   ],
   "links": [
     {
-      "title": "title_value",
-      "link": "https://"
+      "title": "Website",
+      "link": "https://v2.juliusreade.com/"
     }
   ]
 }
@@ -559,9 +559,9 @@ It's more of a personal biography than a portfolio website, but it has a nice lo
   "background_image": "images/cool/coolf.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "date_value",
-  "end_date": "2016-01-01T23:00:07+10:00",
-  "start_date": "2016-01-01T23:00:07+10:00",
+  "date": "2016-01-01",
+  "end_date": "2016-01-01",
+  "start_date": "2016-01-01",
   "socials": [
 
   ],
@@ -578,7 +578,7 @@ It's more of a personal biography than a portfolio website, but it has a nice lo
     },
     {
       "title": "Github",
-      "link": "https://v1.juliusreade.com/"
+      "link": "https://github.com/dottjt/juliusv1/"
     }
   ]
 }
@@ -588,19 +588,19 @@ It's more of a personal biography than a portfolio website, but it has a nice lo
 const howToKillAChinaman: ProjectData =
 {
   "slug": "how-to-kill-a-chinaman",
-  "title": "How to Kill a Chinaman",
-  "japanese_title": "ミディアム How to Kill a Chinaman",
-  "excerpt": "medium. medium. medium.",
+  "title": "How to kill a Chinaman",
+  "japanese_title": "ミディアム How to kill a Chinaman",
+  "excerpt": "kill. kill. kill.",
   "description": "\
-.\
+My first novel.\
 ",
   "featured_image": "",
   "background_image": "images/cool/cool2.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "date_value",
-  "end_date": "2017-01-01T23:00:07+10:00",
-  "start_date": "2015-01-01T23:00:07+10:00",
+  "date": "2020-01-01T23:00:07+10:00",
+  "end_date": "present",
+  "start_date": "2020-01-01T23:00:07+10:00",
   "socials": [
 
   ],
@@ -612,8 +612,8 @@ const howToKillAChinaman: ProjectData =
   ],
   "links": [
     {
-      "title": "title_value",
-      "link": "https://"
+      "title": "How to Kill a Chinaman",
+      "link": "https://howtokillachinaman.juliusreade.com/"
     }
   ]
 }
@@ -631,9 +631,9 @@ const medium: ProjectData =
   "background_image": "images/cool/cool2.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "date_value",
-  "end_date": "2017-01-01T23:00:07+10:00",
-  "start_date": "2015-01-01T23:00:07+10:00",
+  "date": "2015-01-01",
+  "end_date": "2017-01-01",
+  "start_date": "2015-01-01",
   "socials": [
 
   ],
@@ -645,8 +645,8 @@ const medium: ProjectData =
   ],
   "links": [
     {
-      "title": "title_value",
-      "link": "https://"
+      "title": "Website",
+      "link": "https://medium.com/@JuliusReade"
     }
   ]
 }
@@ -658,28 +658,28 @@ const juliusReadeBlog2016: ProjectData =
   "japanese_title": "申し様 Julius Reade",
   "excerpt": "words. words. words.",
   "description": "\
-Before my website became *this* it was a blog containing all of the content you see here today.\
+The internet ramblings of a disposed 23-year-old.\
 ",
-    "featured_image": "",
+  "featured_image": "",
   "background_image": "images/cool/cool1.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "date_value",
-  "end_date": "2018-01-01T23:00:07+10:00",
-  "start_date": "2016-01-01T23:00:07+10:00",
+  "date": "2016-01-01",
+  "end_date": "2018-01-01",
+  "start_date": "2016-01-01",
   "socials": [
 
   ],
   "tags": [
-
+    "blog"
   ],
   "categories": [
     "writing"
   ],
   "links": [
     {
-      "title": "title_value",
-      "link": "https://"
+      "title": "Website",
+      "link": "https://v2.juliusreade.com/"
     }
   ]
 }
@@ -700,9 +700,9 @@ The more you know.\
   "background_image": "images/cool/coola1.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "date_value",
-  "end_date": "2015-01-01T23:00:07+10:00",
-  "start_date": "2015-01-01T23:00:07+10:00",
+  "date": "2015-01-01",
+  "end_date": "2015-01-01",
+  "start_date": "2015-01-01",
   "socials": [
 
   ],
@@ -713,10 +713,10 @@ The more you know.\
     "writing"
   ],
   "links": [
-    {
-      "title": "title_value",
-      "link": "https://"
-    }
+    // {
+    //   "title": "Website",
+    //   "link": "https://perspectivetheory.com/"
+    // }
   ]
 }
 
@@ -733,9 +733,9 @@ Absolutely 100% should have left Tumblr at this point.\
   "background_image": "images/cool/coola2.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "date_value",
-  "end_date": "2015-01-01T23:00:07+10:00",
-  "start_date": "2015-01-01T23:00:07+10:00",
+  "date": "2015-01-01",
+  "end_date": "2015-01-01",
+  "start_date": "2015-01-01",
   "socials": [
 
   ],
@@ -752,7 +752,7 @@ Absolutely 100% should have left Tumblr at this point.\
     },
     {
       "title": "Github",
-      "link": "https://github.com/dottjt/tumblour/tree/master/export/elegantlyattached"
+      "link": "https://github.com/dottjt/tumblour/tree/master/export/elegantlyattached/"
     }
   ]
 }
@@ -771,9 +771,9 @@ Although I suppose I wasn't sure how else to express myself.\
   "background_image": "images/cool/coola3.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "date_value",
-  "end_date": "2015-01-01T23:00:07+10:00",
-  "start_date": "2014-01-01T23:00:07+10:00",
+  "date": "2014-01-01",
+  "end_date": "2015-01-01",
+  "start_date": "2014-01-01",
   "socials": [
 
   ],
@@ -790,7 +790,7 @@ Although I suppose I wasn't sure how else to express myself.\
     },
     {
       "title": "Github",
-      "link": "https://github.com/dottjt/tumblour/tree/master/export/brokenheartsandfracturedsmiles"
+      "link": "https://github.com/dottjt/tumblour/tree/master/export/brokenheartsandfracturedsmiles/"
     }
   ]
 }
@@ -811,9 +811,9 @@ and we've been in a relationship ever since <3.\
   "background_image": "images/cool/coola4.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "date_value",
-  "end_date": "2014-01-01T23:00:07+10:00",
-  "start_date": "2014-01-01T23:00:07+10:00",
+  "date": "2014-01-01",
+  "end_date": "2014-01-01",
+  "start_date": "2014-01-01",
   "socials": [
 
   ],
@@ -830,7 +830,7 @@ and we've been in a relationship ever since <3.\
     },
     {
       "title": "Github",
-      "link": "https://github.com/dottjt/tumblour/tree/master/export/blackwhiteinkcurvesxxx"
+      "link": "https://github.com/dottjt/tumblour/tree/master/export/blackwhiteinkcurvesxxx/"
     }
   ]
 }
@@ -849,9 +849,9 @@ I think I stopped doing it because I ended up finding a girlfriend.\
   "background_image": "images/cool/coola5.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "date_value",
-  "end_date": "2014-01-01T23:00:07+10:00",
-  "start_date": "2014-01-01T23:00:07+10:00",
+  "date": "2014-01-01",
+  "end_date": "2014-01-01",
+  "start_date": "2014-01-01",
   "socials": [
 
   ],
@@ -868,7 +868,7 @@ I think I stopped doing it because I ended up finding a girlfriend.\
     },
     {
       "title": "Github",
-      "link": "https://github.com/dottjt/tumblour/tree/master/export/sweetcherryerotica"
+      "link": "https://github.com/dottjt/tumblour/tree/master/export/sweetcherryerotica/"
     }
   ]
 }
@@ -886,9 +886,9 @@ This was an odd one. It was like the rebound relationship blog.\
   "background_image": "images/cool/coolb1.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "date_value",
-  "end_date": "2013-01-01T23:00:07+10:00",
-  "start_date": "2013-01-01T23:00:07+10:00",
+  "date": "2013-01-01",
+  "end_date": "2013-01-01",
+  "start_date": "2013-01-01",
   "socials": [
 
   ],
@@ -905,7 +905,7 @@ This was an odd one. It was like the rebound relationship blog.\
     },
     {
       "title": "Github",
-      "link": "https://github.com/dottjt/tumblour/tree/master/export/tktxtktx"
+      "link": "https://github.com/dottjt/tumblour/tree/master/export/tktxtktx/"
     }
   ]
 }
@@ -924,9 +924,9 @@ It was both one of the best and worst things that's ever happened to me.\
   "background_image": "images/cool/coolb2.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "date_value",
-  "end_date": "2013-01-01T23:00:07+10:00",
-  "start_date": "2013-01-01T23:00:07+10:00",
+  "date": "2013-01-01",
+  "end_date": "2013-01-01",
+  "start_date": "2013-01-01",
   "socials": [
 
   ],
@@ -943,7 +943,7 @@ It was both one of the best and worst things that's ever happened to me.\
     },
     {
       "title": "Github",
-      "link": "https://github.com/dottjt/tumblour/tree/master/export/inkquotes"
+      "link": "https://github.com/dottjt/tumblour/tree/master/export/inkquotes/"
     }
   ]
 }
@@ -961,9 +961,9 @@ The very first blog I ever created. Probably what started it all.\
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "date_value",
-  "end_date": "2008-01-01T23:00:07+10:00",
-  "start_date": "2008-01-01T23:00:07+10:00",
+  "date": "2008-01-01",
+  "end_date": "2008-01-01",
+  "start_date": "2008-01-01",
   "socials": [
 
   ],
@@ -998,9 +998,9 @@ The follow up to Adelaidesucks. Ah, the imagination of a 15 year old child.\
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "date_value",
-  "end_date": "2009-01-01T23:00:07+10:00",
-  "start_date": "2009-01-01T23:00:07+10:00",
+  "date": "2009-01-01",
+  "end_date": "2009-01-01",
+  "start_date": "2009-01-01",
   "socials": [
 
   ],
@@ -1036,9 +1036,9 @@ A more grander version of MelbourneSucks. A teenage blog of sorts.\
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "date_value",
-  "end_date": "2009-01-01T23:00:07+10:00",
-  "start_date": "2009-01-01T23:00:07+10:00",
+  "date": "2009-01-01",
+  "end_date": "2009-01-01",
+  "start_date": "2009-01-01",
   "socials": [
 
   ],
@@ -1075,9 +1075,9 @@ although luckily I still have all the content in word files.\
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "date_value",
-  "end_date": "2009-01-01T23:00:07+10:00",
-  "start_date": "2009-01-01T23:00:07+10:00",
+  "date": "2009-01-01",
+  "end_date": "2009-01-01",
+  "start_date": "2009-01-01",
   "socials": [
 
   ],
@@ -1114,9 +1114,9 @@ spent partying and getting drunk. Alas, not.\
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "date_value",
-  "end_date": "2009-01-01T23:00:07+10:00",
-  "start_date": "2009-01-01T23:00:07+10:00",
+  "date": "2009-01-01",
+  "end_date": "2009-01-01",
+  "start_date": "2009-01-01",
   "socials": [
 
   ],
@@ -1151,9 +1151,9 @@ I rememeber this consisted of shittily drawn images I created.\
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "date_value",
-  "end_date": "2009-01-01T23:00:07+10:00",
-  "start_date": "2009-01-01T23:00:07+10:00",
+  "date": "2009-01-01",
+  "end_date": "2009-01-01",
+  "start_date": "2009-01-01",
   "socials": [
 
   ],
@@ -1190,9 +1190,9 @@ I went absolutely off the rails. Some of my favourite work.\
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "date_value",
-  "end_date": "2013-01-01T23:00:07+10:00",
-  "start_date": "2012-01-01T23:00:07+10:00",
+  "date": "2012-01-01",
+  "end_date": "2013-01-01",
+  "start_date": "2012-01-01",
   "socials": [
 
   ],
@@ -1224,9 +1224,9 @@ I did, but didn't. I was niche.\
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "date_value",
-  "end_date": "2013-01-01T23:00:07+10:00",
-  "start_date": "2012-01-01T23:00:07+10:00",
+  "date": "2012-01-01",
+  "end_date": "2013-01-01",
+  "start_date": "2012-01-01",
   "socials": [
 
   ],
@@ -1257,9 +1257,9 @@ It wasn't the first YouTube video I did, but it went viral and that was pretty c
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "date_value",
-  "end_date": "2011-01-01T23:00:07+10:00",
-  "start_date": "2011-01-01T23:00:07+10:00",
+  "date": "2011-01-01",
+  "end_date": "2011-01-01",
+  "start_date": "2011-01-01",
   "socials": [
 
   ],
@@ -1291,9 +1291,9 @@ It did not suffice.\
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "date_value",
-  "end_date": "2009-01-01T23:00:07+10:00",
-  "start_date": "2009-01-01T23:00:07+10:00",
+  "date": "2009-01-01",
+  "end_date": "2009-01-01",
+  "start_date": "2009-01-01",
   "socials": [
 
   ],
@@ -1325,9 +1325,9 @@ famous YouTube stars. Obviously that didn't pan out.\
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "date_value",
-  "end_date": "2016-01-01T23:00:07+10:00",
-  "start_date": "2015-01-01T23:00:07+10:00",
+  "date": "2015-01-01",
+  "end_date": "2016-01-01",
+  "start_date": "2015-01-01",
   "socials": [
 
   ],
@@ -1361,16 +1361,13 @@ Alas, this podcast was created. It is absolutely insane.\
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "date_value",
+  "date": "2020-05-18T05:43:32+10:00",
   "end_date": "present",
   "start_date": "2020-05-18T05:43:32+10:00",
   "links": [
     {
       "title": "",
       "link": "https://neverfapdeluxe.com/"
-    },
-    { "title": "",
-      "link": "https;"
     }
   ],
   "socials": [
@@ -1397,9 +1394,9 @@ I decided to record a free meditation series. The first few iterations are prett
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "date_value",
-  "end_date": "2020-05-12T05:43:32+10:00",
-  "start_date": "2020-05-12T05:43:32+10:00",
+  "date": "2019-05-12",
+  "end_date": "2019-05-12",
+  "start_date": "2019-05-12",
   "links": [
     {
       "title": "Castbox",
@@ -1434,9 +1431,9 @@ I used to suffer from porn addiction. Then I overcame it and I wanted to help ot
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "date_value",
-  "end_date": "2020-08-18T05:43:32+10:00", // correct (castbox)
-  "start_date": "2020-03-09T05:43:32+10:00", // correct (castbox)
+  "date": "2020-03-09", // correct (castbox)
+  "end_date": "2020-08-18", // correct (castbox)
+  "start_date": "2020-03-09", // correct (castbox)
   "links": [
     {
       "title": "Website",
@@ -1472,9 +1469,9 @@ Oh, the things I did for fame.\
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "date_value",
-  "end_date": "2013-01-01T23:00:07+10:00",
-  "start_date": "2012-01-01T23:00:07+10:00",
+  "date": "2012-01-01",
+  "end_date": "2013-01-01",
+  "start_date": "2012-01-01",
   "socials": [
 
   ],
@@ -1510,9 +1507,9 @@ Ultimately what I ended up producing was a financial comedy podcast. Crazy times
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "date_value",
-  "end_date": "2012-01-01T23:00:07+10:00",
-  "start_date": "2012-01-01T23:00:07+10:00",
+  "date": "2012-01-01",
+  "end_date": "2012-01-01",
+  "start_date": "2012-01-01",
   "socials": [
 
   ],
@@ -1543,9 +1540,9 @@ The podcast is a compilation of all the radio shows I did with a friend from ye 
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "date_value",
-  "end_date": "2011-01-01T23:00:07+10:00",
-  "start_date": "2011-01-01T23:00:07+10:00",
+  "date": "2011-01-01",
+  "end_date": "2011-01-01",
+  "start_date": "2011-01-01",
   "socials": [
 
   ],
@@ -1579,9 +1576,9 @@ Even though I did it for three years, it wasn't very enjoyable and I wasn't very
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "date_value",
-  "end_date": "2015-01-01T23:00:07+10:00",
-  "start_date": "2012-01-01T23:00:07+10:00",
+  "date": "2012-01-01",
+  "end_date": "2015-01-01",
+  "start_date": "2012-01-01",
   "socials": [
 
   ],
@@ -1610,9 +1607,9 @@ Broadcast on Radio Monash.\
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "date_value",
-  "end_date": "2011-01-01T23:00:07+10:00",
-  "start_date": "2011-01-01T23:00:07+10:00",
+  "date": "2011-01-01",
+  "end_date": "2011-01-01",
+  "start_date": "2011-01-01",
   "socials": [
 
   ],
@@ -1640,9 +1637,9 @@ A music show I did with a friend on 3SSR.\
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "date_value",
-  "end_date": "2011-01-01T23:00:07+10:00",
-  "start_date": "2011-01-01T23:00:07+10:00",
+  "date": "2011-01-01",
+  "end_date": "2011-01-01",
+  "start_date": "2011-01-01",
   "socials": [
 
   ],
@@ -1670,9 +1667,9 @@ I wanted to do a show about conspiracy theories. It was okay.\
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "date_value",
-  "end_date": "2011-01-01T23:00:07+10:00",
-  "start_date": "2011-01-01T23:00:07+10:00",
+  "date": "2011-01-01",
+  "end_date": "2011-01-01",
+  "start_date": "2011-01-01",
   "socials": [
 
   ],
@@ -1700,9 +1697,9 @@ I wanted to produce an edgy radio show about finance. It was super lame.\
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "date_value",
-  "end_date": "2011-01-01T23:00:07+10:00",
-  "start_date": "2011-01-01T23:00:07+10:00",
+  "date": "2011-01-01",
+  "end_date": "2011-01-01",
+  "start_date": "2011-01-01",
   "socials": [
 
   ],
@@ -1730,9 +1727,9 @@ The first radio show I ever did. I was 16 years old at the time.\
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "date_value",
-  "end_date": "2010-01-01T23:00:07+10:00",
-  "start_date": "2009-01-01T23:00:07+10:00",
+  "date": "2009-01-01",
+  "end_date": "2010-01-01",
+  "start_date": "2009-01-01",
   "socials": [
 
   ],
@@ -1759,8 +1756,6 @@ const projectsCoding: ProjectData[] = [
   characterJump,
   juliusV3,
   awfulCms,
-  awfulManager,
-  awfulAffiliate,
   betterImageReference,
   learningSchedule,
   juliusV2,

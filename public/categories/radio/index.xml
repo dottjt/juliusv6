@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>radio on Julius Reade</title>
+    <link>https://juliusreade.com/categories/radio/</link>
+    <description>Recent content in radio on Julius Reade</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    
+	<atom:link href="https://juliusreade.com/categories/radio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CRACK A FAT</title>
+      <link>https://juliusreade.com/projects/radio/crack-a-fat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliusreade.com/projects/radio/crack-a-fat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Don&#39;t Hold Back</title>
+      <link>https://juliusreade.com/projects/radio/dont-hold-back/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliusreade.com/projects/radio/dont-hold-back/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Faptacular One Hour Special</title>
+      <link>https://juliusreade.com/projects/radio/the-faptacular-one-hour-special/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliusreade.com/projects/radio/the-faptacular-one-hour-special/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hidden Controvery</title>
+      <link>https://juliusreade.com/projects/radio/hidden-controvery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliusreade.com/projects/radio/hidden-controvery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Just Another Topical Afternoon</title>
+      <link>https://juliusreade.com/projects/radio/justanothertopicalafternoon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliusreade.com/projects/radio/justanothertopicalafternoon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Hourly Wage</title>
+      <link>https://juliusreade.com/projects/radio/the-hourly-wage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliusreade.com/projects/radio/the-hourly-wage/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

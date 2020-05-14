@@ -1,3 +1,5 @@
+// import { Octokit } from '@octokit/rest';
+// import { GITHUB_OWNER } from './constants';
 var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, generator) {
     function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }
     return new (P || (P = Promise))(function (resolve, reject) {
@@ -34,23 +36,11 @@ var __generator = (this && this.__generator) || function (thisArg, body) {
         if (op[0] & 5) throw op[1]; return { value: op[0] ? op[1] : void 0, done: true };
     }
 };
-import { Octokit } from '@octokit/rest';
-import { GITHUB_OWNER } from './constants';
-var octokit = new Octokit({
-    auth: process.env.GITHUB_PERSONAL_ACCESS_TOKEN
-});
+// const octokit = new Octokit({
+//   auth: process.env.GITHUB_PERSONAL_ACCESS_TOKEN
+// });
 export var getProjectFirstLastCommitDates = function () { return __awaiter(void 0, void 0, void 0, function () {
-    var repo;
     return __generator(this, function (_a) {
-        switch (_a.label) {
-            case 0: return [4 /*yield*/, octokit.repos.get({
-                    owner: GITHUB_OWNER,
-                    repo: 'juliusv1'
-                })];
-            case 1:
-                repo = _a.sent();
-                console.log(repo);
-                return [2 /*return*/];
-        }
+        return [2 /*return*/];
     });
 }); };
