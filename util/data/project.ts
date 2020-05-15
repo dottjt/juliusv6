@@ -1198,8 +1198,8 @@ I rememeber this consisted of shittily drawn images I created.\
 const theFinancialReality201516: ProjectData =
 {
   "slug": "the-financial-reality-2015-16",
-  "title": "The Financial Reality",
-  "japanese_title": "融通の The Financial Reality",
+  "title": "The Financial Reality 2015/16",
+  "japanese_title": "融通の The Financial Reality 2015/16",
   "excerpt": "youtube. youtube. youtube.",
   "description": "\
 I went absolutely off the rails. Some of my favourite work.\
@@ -1231,8 +1231,8 @@ I went absolutely off the rails. Some of my favourite work.\
 const theFinancialReality201213: ProjectData =
 {
   "slug": "the-financial-reality-2012-13",
-  "title": "The Financial Reality",
-  "japanese_title": "融通の The Financial Reality",
+  "title": "The Financial Reality 2012/13",
+  "japanese_title": "融通の The Financial Reality 2012/13",
   "excerpt": "youtube. youtube. youtube.",
   "description": "\
 I thought I could make financial comedy work. \
@@ -1265,8 +1265,8 @@ I did, but didn't. I was niche.\
 const theFinancialReality2011: ProjectData =
 {
   "slug": "the-financial-reality-2011",
-  "title": "The Financial Reality",
-  "japanese_title": "融通の The Financial Reality",
+  "title": "The Financial Reality 2011",
+  "japanese_title": "融通の The Financial Reality 2011",
   "excerpt": "youtube. youtube. youtube.",
   "description": "\
 It wasn't the first YouTube video I did, but it went viral and that was pretty cooool.\

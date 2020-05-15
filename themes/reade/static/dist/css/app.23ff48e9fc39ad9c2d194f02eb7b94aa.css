@@ -5808,6 +5808,14 @@ body {
             align-items: center;
   }
 
+h1 {
+
+  }
+
+h2 {
+
+  }
+
 .em {
     position: relative;
     top: -0.1rem;
@@ -5872,6 +5880,7 @@ p {
         -ms-flex-align: center;
             align-items: center;
 
+    width: 100%;
     /* margin-top: 4rem; */
   }
 
@@ -5983,6 +5992,8 @@ p {
 
 .content {
     max-width: 600px;
+
+    min-height: 500px;
   }
 
 .section__twd__bottom {
@@ -6141,4 +6152,8 @@ h2 {
 
 .category {
   font-size: 1.4rem;
+}
+
+.section__titles {
+
 }
