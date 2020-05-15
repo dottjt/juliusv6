@@ -5,13 +5,13 @@
 
     <div class="box width_330px">
       <img src="images/me/cool2.jpg"/>
-      <p>It's me ^^.</p>
+      <p class="small__text">It's me ^^.</p>
     </div>
 
     <div class="box width_330px">
-      <p>Welcome to my website! <i class="em em-beers" aria-role="presentation" aria-label="CLINKING BEER MUGS"></i></p>
-      <p>This homepage aims to take you through some of the projects I'm currently working on.</p>
-      <p>You know, when I'm not churning away at ye ol' 9-to-5. <i class="em em-alarm_clock" aria-role="presentation" aria-label="ALARM CLOCK"></i></p>
+      <p class="small__text">Welcome to my website! <i class="em em-beers" aria-role="presentation" aria-label="CLINKING BEER MUGS"></i></p>
+      <p class="small__text">This homepage aims to take you through some of the projects I'm currently working on.</p>
+      <p class="small__text">You know, when I'm not churning away at ye ol' 9-to-5. <i class="em em-alarm_clock" aria-role="presentation" aria-label="ALARM CLOCK"></i></p>
     </div>
 
     <div style="padding-top: 0rem;" class="section__part">
@@ -36,12 +36,12 @@
 
     <div class="box width_330px">
       <img  src="images/me/cool3.jpg"/>
-      <p>Take my hand. This ship is sinking! <i class="em em-boat" aria-role="presentation" aria-label="SAILBOAT"></i></p>
+      <p class="small__text">Take my hand. This ship is sinking! <i class="em em-boat" aria-role="presentation" aria-label="SAILBOAT"></i></p>
     </div>
 
     <div class="box width_330px">
-      <p>Okay, so I know that was pretty cool.</p>
-      <p>But you know, I'm just a pretty cool guy all round, so I suggest you get used to it. <i class="em em-point_left" aria-role="presentation" aria-label="WHITE LEFT POINTING BACKHAND INDEX"></i></p>
+      <p class="small__text">Okay, so I know that was pretty cool.</p>
+      <p class="small__text">But you know, I'm just a pretty cool guy all round, so I suggest you get used to it. <i class="em em-point_left" aria-role="presentation" aria-label="WHITE LEFT POINTING BACKHAND INDEX"></i></p>
     </div>
 
     <div class="section__part">
@@ -65,12 +65,12 @@
 
     <div class="box width_330px">
       <img  src="images/me/cool11.jpg"/>
-      <p>It's like my face, but a little more... fatally obscured. <i class="em em-lower_left_ballpoint_pen" aria-role="presentation" aria-label=""></i></p>
+      <p class="small__text">It's like my face, but a little more... fatally obscured. <i class="em em-lower_left_ballpoint_pen" aria-role="presentation" aria-label=""></i></p>
     </div>
 
     <div class="box width_330px">
-      <p>Oh, so you've fallen in love with me and my charming wit?</p>
-      <p>I suppose that makes two of us.</p>
+      <p class="small__text">Oh, so you've fallen in love with me and my charming wit?</p>
+      <p class="small__text">I suppose that makes two of us.</p>
     </div>
 
     <div class="section__part">
@@ -99,13 +99,13 @@
 
     <div class="box width_330px">
       <img  src="images/me/coole.jpg"/>
-      <p>We walk amongst the giants.</p>
+      <p class="small__text">We walk amongst the giants.</p>
     </div>
 
     <div class="box width_330px">
-      <p>Anyway, that's all I really have to showcase for today.</p>
-      <p>Thank you for visiting. You've been fantastic! <i class="em em-confetti_ball" aria-role="presentation" aria-label="CONFETTI BALL"></i></p>
-      <p>Below is a continuing list of all the other things I've worked on.</p>
+      <p class="small__text">Anyway, that's all I really have to showcase for today.</p>
+      <p class="small__text">Thank you for visiting. You've been fantastic! <i class="em em-confetti_ball" aria-role="presentation" aria-label="CONFETTI BALL"></i></p>
+      <p class="small__text">Below is a continuing list of all the other things I've worked on.</p>
     </div>
 
     <div class="section__border__margin"></div>
@@ -131,64 +131,5 @@
       </a>
       {{ end }}
     {{ end }}
-
-
-
-
-
-  <!-- <article class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy mid-gray">
-    {{ .Content }}
-  </article>
-  {{/* Define a section to pull recent posts from. For Hugo 0.20 this will default to the section with the most number of pages. */}}
-  {{ $mainSections := .Site.Params.mainSections | default (slice "post") }}
-  {{/* Create a variable with that section to use in multiple places. */}}
-  {{ $section := where .Site.RegularPages "Section" "in" $mainSections }}
-  {{/* Check to see if the section is defined for ranging through it */}}
-  {{ $section_count := len $section }}
-  {{ if ge $section_count 1 }}
-    {{/* Derive the section name  */}}
-    {{ $section_name := index (.Site.Params.mainSections) 0 }}
-
-    <div class="pa3 pa4-ns w-100 w-70-ns center">
-      {{/* Use $section_name to get the section title. Use "with" to only show it if it exists */}}
-       {{ with .Site.GetPage "section" $section_name }}
-          <h1 class="flex-none">
-            {{ $.Param "recent_copy" | default (i18n "recentTitle" .) }}
-          </h1>
-        {{ end }}
-
-      {{ $n_posts := $.Param "recent_posts_number" | default 3 }}
-
-      <section class="w-100 mw8">
-        {{/* Range through the first $n_posts items of the section */}}
-        {{ range (first $n_posts $section) }}
-          <div class="relative w-100 mb4">
-            {{ partial "summary-with-image.html" . }}
-          </div>
-        {{ end }}
-      </section>
-
-      {{ if ge $section_count (add $n_posts 1) }}
-      <section class="w-100">
-        <h1 class="f3">{{ i18n "more" }}</h1>
-        {{/* Now, range through the next four after the initial $n_posts items. Nest the requirements, "after" then "first" on the outside */}}
-        {{ range (first 4 (after $n_posts $section))  }}
-          <h2 class="f5 fw4 mb4 dib mr3">
-            <a href="{{ .Permalink }}" class="link black dim">
-              {{ .Title }}
-            </a>
-          </h2>
-        {{ end }}
-
-        {{/* As above, Use $section_name to get the section title, and URL. Use "with" to only show it if it exists */}}
-        {{ with .Site.GetPage "section" $section_name }}
-          <a href="{{ .Permalink }}" class="link db f6 pa2 br3 bg-mid-gray white dim w4 tc">{{ i18n "allTitle" . }}</a>
-        {{ end }}
-        </section>
-      {{ end }}
-
-      </div>
-  {{ end }} -->
-
-</div>
+  </div>
 {{ end }}

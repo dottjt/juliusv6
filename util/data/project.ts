@@ -1689,9 +1689,9 @@ I wanted to do a show about conspiracy theories. It was okay.\
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "2010-01-01",
-  "end_date": "2010-01-01",
-  "start_date": "2010-01-01",
+  "date": "2010-09-01",
+  "end_date": "2010-12-01",
+  "start_date": "2010-09-01",
   "socials": [
 
   ],
@@ -1719,9 +1719,9 @@ I wanted to produce an edgy radio show about finance. It was super lame.\
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "2010-01-01",
-  "end_date": "2010-01-01",
-  "start_date": "2010-01-01",
+  "date": "2010-03-01",
+  "end_date": "2010-06-01",
+  "start_date": "2010-03-01",
   "socials": [
 
   ],
@@ -1749,9 +1749,9 @@ The first radio show I ever did. I was 16 years old at the time.\
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "2009-01-01",
-  "end_date": "2009-01-01",
-  "start_date": "2009-01-01",
+  "date": "2009-09-01",
+  "end_date": "2010-03-01",
+  "start_date": "2009-09-01",
   "socials": [
 
   ],

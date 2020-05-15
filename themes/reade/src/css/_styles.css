@@ -93,6 +93,10 @@ body {
   line-height: 2rem;
 }
 
+.small__text {
+  font-size: 1rem;
+}
+
 .section__border {
   height: 2px;
   width: 100%;
