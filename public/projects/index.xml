@@ -6,374 +6,51 @@
     <description>Recent content in Projects on Julius Reade</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
+    <lastBuildDate>Tue, 12 May 2020 05:43:32 +1000</lastBuildDate>
     
 	<atom:link href="https://juliusreade.com/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>adelaidesucks</title>
-      <link>https://juliusreade.com/projects/writing/adelaidesucks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juliusreade.com/projects/writing/adelaidesucks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Analogies</title>
-      <link>https://juliusreade.com/projects/coding/analogies/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juliusreade.com/projects/coding/analogies/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Awful CMS</title>
-      <link>https://juliusreade.com/projects/yeah/awful-cms/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juliusreade.com/projects/yeah/awful-cms/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Back Hand Films</title>
-      <link>https://juliusreade.com/projects/youtube/back-hand-films/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juliusreade.com/projects/youtube/back-hand-films/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Better Image Reference</title>
-      <link>https://juliusreade.com/projects/coding/better-image-reference/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juliusreade.com/projects/coding/better-image-reference/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Black White Ink Curves</title>
-      <link>https://juliusreade.com/projects/writing/black-white-ink-curves/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juliusreade.com/projects/writing/black-white-ink-curves/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Character Jump</title>
-      <link>https://juliusreade.com/projects/coding/character-jump/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juliusreade.com/projects/coding/character-jump/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CRACK A FAT</title>
-      <link>https://juliusreade.com/projects/radio/crack-a-fat/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juliusreade.com/projects/radio/crack-a-fat/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Darwinsucks</title>
-      <link>https://juliusreade.com/projects/writing/darwinsucks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juliusreade.com/projects/writing/darwinsucks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Don&#39;t Hold Back</title>
-      <link>https://juliusreade.com/projects/radio/dont-hold-back/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juliusreade.com/projects/radio/dont-hold-back/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Elegantly Attached</title>
-      <link>https://juliusreade.com/projects/writing/elegantly-attached/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juliusreade.com/projects/writing/elegantly-attached/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Faptacular One Hour Special</title>
-      <link>https://juliusreade.com/projects/radio/the-faptacular-one-hour-special/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juliusreade.com/projects/radio/the-faptacular-one-hour-special/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hearts and Fractured Smiles</title>
-      <link>https://juliusreade.com/projects/writing/broken-hearts-and-fractured-smiles/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juliusreade.com/projects/writing/broken-hearts-and-fractured-smiles/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hidden Controvery</title>
-      <link>https://juliusreade.com/projects/radio/hidden-controvery/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juliusreade.com/projects/radio/hidden-controvery/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hobartsucks</title>
-      <link>https://juliusreade.com/projects/writing/hobartsucks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juliusreade.com/projects/writing/hobartsucks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>How to Kill a Chinaman</title>
-      <link>https://juliusreade.com/projects/writing/how-to-kill-a-chinaman/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juliusreade.com/projects/writing/how-to-kill-a-chinaman/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ink Quotes</title>
-      <link>https://juliusreade.com/projects/writing/inkquotes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juliusreade.com/projects/writing/inkquotes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Julius Is My Name</title>
-      <link>https://juliusreade.com/projects/youtube/julius-is-my-name/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juliusreade.com/projects/youtube/julius-is-my-name/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Julius Reade</title>
-      <link>https://juliusreade.com/projects/writing/julius-reade-blog-2016/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juliusreade.com/projects/writing/julius-reade-blog-2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Just Another Topical Afternoon</title>
-      <link>https://juliusreade.com/projects/radio/justanothertopicalafternoon/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juliusreade.com/projects/radio/justanothertopicalafternoon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learning Schedule</title>
-      <link>https://juliusreade.com/projects/coding/learning-schedule/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juliusreade.com/projects/coding/learning-schedule/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Medium</title>
-      <link>https://juliusreade.com/projects/writing/medium/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juliusreade.com/projects/writing/medium/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>melbournesucks</title>
-      <link>https://juliusreade.com/projects/writing/melbournesucks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juliusreade.com/projects/writing/melbournesucks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NeverFap Deluxe</title>
-      <link>https://juliusreade.com/projects/coding/neverfap-deluxe/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juliusreade.com/projects/coding/neverfap-deluxe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Personal Website</title>
-      <link>https://juliusreade.com/projects/coding/julius-reade-v2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juliusreade.com/projects/coding/julius-reade-v2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Personal Website V1</title>
-      <link>https://juliusreade.com/projects/coding/julius-reade-v1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juliusreade.com/projects/coding/julius-reade-v1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Personal Website V3</title>
-      <link>https://juliusreade.com/projects/coding/julius-reade-v3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juliusreade.com/projects/coding/julius-reade-v3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Personal Website V4</title>
-      <link>https://juliusreade.com/projects/coding/julius-reade-v4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juliusreade.com/projects/coding/julius-reade-v4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Personal Website V5</title>
-      <link>https://juliusreade.com/projects/coding/julius-reade-v5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juliusreade.com/projects/coding/julius-reade-v5/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Personal Website V6</title>
       <link>https://juliusreade.com/projects/coding/julius-reade-v6/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 12 May 2020 05:43:32 +1000</pubDate>
       
       <guid>https://juliusreade.com/projects/coding/julius-reade-v6/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Perspective Theory</title>
-      <link>https://juliusreade.com/projects/writing/perspective-theory/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>How to kill a Chinaman</title>
+      <link>https://juliusreade.com/projects/writing/how-to-kill-a-chinaman/</link>
+      <pubDate>Wed, 01 Jan 2020 23:00:07 +1000</pubDate>
       
-      <guid>https://juliusreade.com/projects/writing/perspective-theory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Perthsucks</title>
-      <link>https://juliusreade.com/projects/writing/perthsucks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juliusreade.com/projects/writing/perthsucks/</guid>
+      <guid>https://juliusreade.com/projects/writing/how-to-kill-a-chinaman/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PokeML</title>
       <link>https://juliusreade.com/projects/coding/pokeml/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://juliusreade.com/projects/coding/pokeml/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Sweet Cherry Erotica</title>
-      <link>https://juliusreade.com/projects/writing/sweet-cherry-erotica/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Try Hovering</title>
+      <link>https://juliusreade.com/projects/coding/try-hovering/</link>
+      <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://juliusreade.com/projects/writing/sweet-cherry-erotica/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sydneysucks</title>
-      <link>https://juliusreade.com/projects/writing/sydneysucks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juliusreade.com/projects/writing/sydneysucks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Drudge Report Report</title>
-      <link>https://juliusreade.com/projects/podcast/drudge-report-report/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juliusreade.com/projects/podcast/drudge-report-report/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Financial Reality</title>
-      <link>https://juliusreade.com/projects/youtube/the-financial-reality-2011/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juliusreade.com/projects/youtube/the-financial-reality-2011/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Financial Reality</title>
-      <link>https://juliusreade.com/projects/youtube/the-financial-reality-2012-13/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juliusreade.com/projects/youtube/the-financial-reality-2012-13/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Financial Reality</title>
-      <link>https://juliusreade.com/projects/youtube/the-financial-reality-2015-16/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juliusreade.com/projects/youtube/the-financial-reality-2015-16/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Hourly Wage</title>
-      <link>https://juliusreade.com/projects/radio/the-hourly-wage/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juliusreade.com/projects/radio/the-hourly-wage/</guid>
+      <guid>https://juliusreade.com/projects/coding/try-hovering/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The NeverFap Deluxe Meditation Series</title>
       <link>https://juliusreade.com/projects/podcast/the-neverfap-deluxe-meditation-series/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 12 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://juliusreade.com/projects/podcast/the-neverfap-deluxe-meditation-series/</guid>
       <description></description>
@@ -382,63 +59,378 @@
     <item>
       <title>The NeverFap Deluxe Podcast</title>
       <link>https://juliusreade.com/projects/podcast/the-neverfap-deluxe-podcast/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://juliusreade.com/projects/podcast/the-neverfap-deluxe-podcast/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>The Writer&#39;s Daily</title>
-      <link>https://juliusreade.com/projects/podcast/the-writers-daily/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Personal Website V5</title>
+      <link>https://juliusreade.com/projects/coding/julius-reade-v5/</link>
+      <pubDate>Mon, 21 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://juliusreade.com/projects/podcast/the-writers-daily/</guid>
+      <guid>https://juliusreade.com/projects/coding/julius-reade-v5/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>The Zerohedge Daily Roundup</title>
-      <link>https://juliusreade.com/projects/podcast/the-zerohedge-daily-roundup/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>NeverFap Deluxe</title>
+      <link>https://juliusreade.com/projects/coding/neverfap-deluxe/</link>
+      <pubDate>Tue, 15 Jan 2019 05:43:32 +1000</pubDate>
       
-      <guid>https://juliusreade.com/projects/podcast/the-zerohedge-daily-roundup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tktxtktx</title>
-      <link>https://juliusreade.com/projects/writing/tktxtktx/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juliusreade.com/projects/writing/tktxtktx/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Try Hovering</title>
-      <link>https://juliusreade.com/projects/coding/try-hovering/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juliusreade.com/projects/coding/try-hovering/</guid>
+      <guid>https://juliusreade.com/projects/coding/neverfap-deluxe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Watashi Engine</title>
       <link>https://juliusreade.com/projects/coding/watashi-engine/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://juliusreade.com/projects/coding/watashi-engine/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Personal Website V4</title>
+      <link>https://juliusreade.com/projects/coding/julius-reade-v4/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliusreade.com/projects/coding/julius-reade-v4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Character Jump</title>
+      <link>https://juliusreade.com/projects/coding/character-jump/</link>
+      <pubDate>Sat, 12 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliusreade.com/projects/coding/character-jump/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analogies</title>
+      <link>https://juliusreade.com/projects/coding/analogies/</link>
+      <pubDate>Fri, 13 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliusreade.com/projects/coding/analogies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal Website</title>
+      <link>https://juliusreade.com/projects/coding/julius-reade-v2/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliusreade.com/projects/coding/julius-reade-v2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal Website V3</title>
+      <link>https://juliusreade.com/projects/coding/julius-reade-v3/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliusreade.com/projects/coding/julius-reade-v3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Awful CMS</title>
+      <link>https://juliusreade.com/projects/yeah/awful-cms/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliusreade.com/projects/yeah/awful-cms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Better Image Reference</title>
+      <link>https://juliusreade.com/projects/coding/better-image-reference/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliusreade.com/projects/coding/better-image-reference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Julius Reade</title>
+      <link>https://juliusreade.com/projects/writing/julius-reade-blog-2016/</link>
+      <pubDate>Sun, 30 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliusreade.com/projects/writing/julius-reade-blog-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Schedule</title>
+      <link>https://juliusreade.com/projects/coding/learning-schedule/</link>
+      <pubDate>Mon, 16 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliusreade.com/projects/coding/learning-schedule/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal Website V1</title>
+      <link>https://juliusreade.com/projects/coding/julius-reade-v1/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliusreade.com/projects/coding/julius-reade-v1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Medium</title>
+      <link>https://juliusreade.com/projects/writing/medium/</link>
+      <pubDate>Tue, 10 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliusreade.com/projects/writing/medium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Back Hand Films</title>
+      <link>https://juliusreade.com/projects/youtube/back-hand-films/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliusreade.com/projects/youtube/back-hand-films/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elegantly Attached</title>
+      <link>https://juliusreade.com/projects/writing/elegantly-attached/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliusreade.com/projects/writing/elegantly-attached/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perspective Theory</title>
+      <link>https://juliusreade.com/projects/writing/perspective-theory/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliusreade.com/projects/writing/perspective-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Black White Ink Curves</title>
+      <link>https://juliusreade.com/projects/writing/black-white-ink-curves/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliusreade.com/projects/writing/black-white-ink-curves/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hearts and Fractured Smiles</title>
+      <link>https://juliusreade.com/projects/writing/broken-hearts-and-fractured-smiles/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliusreade.com/projects/writing/broken-hearts-and-fractured-smiles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sweet Cherry Erotica</title>
+      <link>https://juliusreade.com/projects/writing/sweet-cherry-erotica/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliusreade.com/projects/writing/sweet-cherry-erotica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ink Quotes</title>
+      <link>https://juliusreade.com/projects/writing/inkquotes/</link>
+      <pubDate>Sun, 14 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliusreade.com/projects/writing/inkquotes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tktxtktx</title>
+      <link>https://juliusreade.com/projects/writing/tktxtktx/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliusreade.com/projects/writing/tktxtktx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Don&#39;t Hold Back</title>
+      <link>https://juliusreade.com/projects/radio/dont-hold-back/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliusreade.com/projects/radio/dont-hold-back/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Drudge Report Report</title>
+      <link>https://juliusreade.com/projects/podcast/drudge-report-report/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliusreade.com/projects/podcast/drudge-report-report/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Financial Reality 2012/13</title>
+      <link>https://juliusreade.com/projects/youtube/the-financial-reality-2012-13/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliusreade.com/projects/youtube/the-financial-reality-2012-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Financial Reality 2015/16</title>
+      <link>https://juliusreade.com/projects/youtube/the-financial-reality-2015-16/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliusreade.com/projects/youtube/the-financial-reality-2015-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Zerohedge Daily Roundup</title>
+      <link>https://juliusreade.com/projects/podcast/the-zerohedge-daily-roundup/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliusreade.com/projects/podcast/the-zerohedge-daily-roundup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>We Talk, You Die</title>
       <link>https://juliusreade.com/projects/podcast/we-talk-you-die/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 27 Jun 2011 00:00:00 +0000</pubDate>
       
       <guid>https://juliusreade.com/projects/podcast/we-talk-you-die/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CRACK A FAT</title>
+      <link>https://juliusreade.com/projects/radio/crack-a-fat/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliusreade.com/projects/radio/crack-a-fat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Faptacular One Hour Special</title>
+      <link>https://juliusreade.com/projects/radio/the-faptacular-one-hour-special/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliusreade.com/projects/radio/the-faptacular-one-hour-special/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hidden Controvery</title>
+      <link>https://juliusreade.com/projects/radio/hidden-controvery/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliusreade.com/projects/radio/hidden-controvery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Financial Reality 2011</title>
+      <link>https://juliusreade.com/projects/youtube/the-financial-reality-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliusreade.com/projects/youtube/the-financial-reality-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Hourly Wage</title>
+      <link>https://juliusreade.com/projects/radio/the-hourly-wage/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliusreade.com/projects/radio/the-hourly-wage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Darwinsucks</title>
+      <link>https://juliusreade.com/projects/writing/darwinsucks/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliusreade.com/projects/writing/darwinsucks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hobartsucks</title>
+      <link>https://juliusreade.com/projects/writing/hobartsucks/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliusreade.com/projects/writing/hobartsucks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Julius Is My Name</title>
+      <link>https://juliusreade.com/projects/youtube/julius-is-my-name/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliusreade.com/projects/youtube/julius-is-my-name/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Just Another Topical Afternoon</title>
+      <link>https://juliusreade.com/projects/radio/justanothertopicalafternoon/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliusreade.com/projects/radio/justanothertopicalafternoon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Melbournesucks</title>
+      <link>https://juliusreade.com/projects/writing/melbournesucks/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliusreade.com/projects/writing/melbournesucks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perthsucks</title>
+      <link>https://juliusreade.com/projects/writing/perthsucks/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliusreade.com/projects/writing/perthsucks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sydneysucks</title>
+      <link>https://juliusreade.com/projects/writing/sydneysucks/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliusreade.com/projects/writing/sydneysucks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adelaidesucks</title>
+      <link>https://juliusreade.com/projects/writing/adelaidesucks/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliusreade.com/projects/writing/adelaidesucks/</guid>
       <description></description>
     </item>
     

@@ -6,6 +6,7 @@
     <description>Recent content in Categories on Julius Reade</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
+    <lastBuildDate>Tue, 12 May 2020 05:43:32 +1000</lastBuildDate>
     
 	<atom:link href="https://juliusreade.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,43 +14,34 @@
     <item>
       <title>coding</title>
       <link>https://juliusreade.com/categories/coding/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 12 May 2020 05:43:32 +1000</pubDate>
       
       <guid>https://juliusreade.com/categories/coding/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>podcast</title>
-      <link>https://juliusreade.com/categories/podcast/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juliusreade.com/categories/podcast/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>radio</title>
-      <link>https://juliusreade.com/categories/radio/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juliusreade.com/categories/radio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>writing</title>
       <link>https://juliusreade.com/categories/writing/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2020 23:00:07 +1000</pubDate>
       
       <guid>https://juliusreade.com/categories/writing/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>podcast</title>
+      <link>https://juliusreade.com/categories/podcast/</link>
+      <pubDate>Sun, 12 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliusreade.com/categories/podcast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>yeah</title>
       <link>https://juliusreade.com/categories/yeah/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://juliusreade.com/categories/yeah/</guid>
       <description></description>
@@ -58,9 +50,18 @@
     <item>
       <title>youtube</title>
       <link>https://juliusreade.com/categories/youtube/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
       <guid>https://juliusreade.com/categories/youtube/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>radio</title>
+      <link>https://juliusreade.com/categories/radio/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliusreade.com/categories/radio/</guid>
       <description></description>
     </item>
     

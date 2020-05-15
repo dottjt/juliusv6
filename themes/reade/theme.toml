@@ -1,7 +1,7 @@
 # theme.toml template for a Hugo theme
 # See https://github.com/spf13/hugoThemes#themetoml for an example
 
-name = "Ananke Gohugo Theme"
+name = "reade"
 license = "MIT"
 licenselink = "https://github.com/budparr/gohugo-theme-ananke/blob/master/LICENSE.md"
 description = "A Base theme for building full featured Hugo sites"
@@ -11,5 +11,5 @@ features = ["posts", "shortcodes", "related content", "comments"]
 min_version = "0.54.0"
 
 [author]
-  name = "Bud Parr"
-  homepage = "https://github.com/budparr"
+  name = "Julius Reade"
+  homepage = "https://github.com/dottjt"

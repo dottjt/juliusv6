@@ -6,104 +6,15 @@
     <description>Recent content in website on Julius Reade</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
+    <lastBuildDate>Tue, 12 May 2020 05:43:32 +1000</lastBuildDate>
     
 	<atom:link href="https://juliusreade.com/tags/website/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Analogies</title>
-      <link>https://juliusreade.com/projects/coding/analogies/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juliusreade.com/projects/coding/analogies/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Awful CMS</title>
-      <link>https://juliusreade.com/projects/yeah/awful-cms/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juliusreade.com/projects/yeah/awful-cms/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Better Image Reference</title>
-      <link>https://juliusreade.com/projects/coding/better-image-reference/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juliusreade.com/projects/coding/better-image-reference/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Character Jump</title>
-      <link>https://juliusreade.com/projects/coding/character-jump/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juliusreade.com/projects/coding/character-jump/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learning Schedule</title>
-      <link>https://juliusreade.com/projects/coding/learning-schedule/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juliusreade.com/projects/coding/learning-schedule/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NeverFap Deluxe</title>
-      <link>https://juliusreade.com/projects/coding/neverfap-deluxe/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juliusreade.com/projects/coding/neverfap-deluxe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Personal Website</title>
-      <link>https://juliusreade.com/projects/coding/julius-reade-v2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juliusreade.com/projects/coding/julius-reade-v2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Personal Website V3</title>
-      <link>https://juliusreade.com/projects/coding/julius-reade-v3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juliusreade.com/projects/coding/julius-reade-v3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Personal Website V4</title>
-      <link>https://juliusreade.com/projects/coding/julius-reade-v4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juliusreade.com/projects/coding/julius-reade-v4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Personal Website V5</title>
-      <link>https://juliusreade.com/projects/coding/julius-reade-v5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juliusreade.com/projects/coding/julius-reade-v5/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Personal Website V6</title>
       <link>https://juliusreade.com/projects/coding/julius-reade-v6/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 12 May 2020 05:43:32 +1000</pubDate>
       
       <guid>https://juliusreade.com/projects/coding/julius-reade-v6/</guid>
       <description></description>
@@ -112,7 +23,7 @@
     <item>
       <title>PokeML</title>
       <link>https://juliusreade.com/projects/coding/pokeml/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://juliusreade.com/projects/coding/pokeml/</guid>
       <description></description>
@@ -121,18 +32,108 @@
     <item>
       <title>Try Hovering</title>
       <link>https://juliusreade.com/projects/coding/try-hovering/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://juliusreade.com/projects/coding/try-hovering/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Personal Website V5</title>
+      <link>https://juliusreade.com/projects/coding/julius-reade-v5/</link>
+      <pubDate>Mon, 21 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliusreade.com/projects/coding/julius-reade-v5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NeverFap Deluxe</title>
+      <link>https://juliusreade.com/projects/coding/neverfap-deluxe/</link>
+      <pubDate>Tue, 15 Jan 2019 05:43:32 +1000</pubDate>
+      
+      <guid>https://juliusreade.com/projects/coding/neverfap-deluxe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Watashi Engine</title>
       <link>https://juliusreade.com/projects/coding/watashi-engine/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://juliusreade.com/projects/coding/watashi-engine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal Website V4</title>
+      <link>https://juliusreade.com/projects/coding/julius-reade-v4/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliusreade.com/projects/coding/julius-reade-v4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Character Jump</title>
+      <link>https://juliusreade.com/projects/coding/character-jump/</link>
+      <pubDate>Sat, 12 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliusreade.com/projects/coding/character-jump/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analogies</title>
+      <link>https://juliusreade.com/projects/coding/analogies/</link>
+      <pubDate>Fri, 13 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliusreade.com/projects/coding/analogies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal Website</title>
+      <link>https://juliusreade.com/projects/coding/julius-reade-v2/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliusreade.com/projects/coding/julius-reade-v2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal Website V3</title>
+      <link>https://juliusreade.com/projects/coding/julius-reade-v3/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliusreade.com/projects/coding/julius-reade-v3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Awful CMS</title>
+      <link>https://juliusreade.com/projects/yeah/awful-cms/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliusreade.com/projects/yeah/awful-cms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Better Image Reference</title>
+      <link>https://juliusreade.com/projects/coding/better-image-reference/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliusreade.com/projects/coding/better-image-reference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Schedule</title>
+      <link>https://juliusreade.com/projects/coding/learning-schedule/</link>
+      <pubDate>Mon, 16 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliusreade.com/projects/coding/learning-schedule/</guid>
       <description></description>
     </item>
     
