@@ -271,7 +271,7 @@ const juliusV4: ProjectData =
 {
   "slug": "julius-reade-v4",
   "title": "Personal Website V4",
-  "japanese_title": "Personal Website V4",
+  "japanese_title": "自家 Personal Website V4",
   "excerpt": "hugo. hugo. hugo.",
   "description": "\
 Possibly one of the worst websites I've ever put to my name. \
@@ -358,9 +358,9 @@ which people could apply to their lives.\
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "2019-05-12",
-  "end_date": "2019-05-12",
-  "start_date": "2019-05-12",
+  "date": "2018-05-12",
+  "end_date": "2018-05-12",
+  "start_date": "2018-05-12",
   "links": [
     // {
     //   "title": "Website",
@@ -483,7 +483,7 @@ Actually, I never ended up finishing it, because I realised that it wouldn't mak
   ],
   "links": [
     {
-      "title": "title_value",
+      "title": "Github",
       "link": "https://github.com/dottjt/BetterImageReference/"
     }
   ]
@@ -649,9 +649,9 @@ const medium: ProjectData =
   "background_image": "images/cool/cool2.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "2015-01-01",
-  "end_date": "2017-01-01",
-  "start_date": "2015-01-01",
+  "date": "2015-11-10", // correct (Medium)
+  "end_date": "present", // correct (Medium)
+  "start_date": "2015-11-10", // correct (Medium)
   "socials": [
 
   ],
@@ -682,9 +682,9 @@ The internet ramblings of a disposed 23-year-old.\
   "background_image": "images/cool/cool1.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "2016-01-01",
-  "end_date": "2018-01-01",
-  "start_date": "2016-01-01",
+  "date": "2016-10-30", // correct (Github)
+  "end_date": "2018-01-17", // correct (Github)
+  "start_date": "2016-10-30", // correct (Github)
   "socials": [
 
   ],
@@ -766,11 +766,11 @@ Absolutely 100% should have left Tumblr at this point.\
   "links": [
     {
       "title": "Website",
-      "link": "https://elegantlyattached.tumblr.com"
+      "link": "c"
     },
     {
       "title": "Github",
-      "link": "https://github.com/dottjt/tumblour/tree/master/export/elegantlyattached/"
+      "link": "https://github.com/dottjt/tumblour/tree/master/export/elegantlyattached"
     }
   ]
 }
@@ -942,9 +942,9 @@ It was both one of the best and worst things that's ever happened to me.\
   "background_image": "images/cool/coolb2.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "2013-01-01",
-  "end_date": "2013-01-01",
-  "start_date": "2013-01-01",
+  "date": "2013-07-14", // correct (Tumblr)
+  "end_date": "2013-10-07", // correct (Tumblr)
+  "start_date": "2013-07-14", // correct (Tumblr)
   "socials": [
 
   ],
@@ -1006,8 +1006,8 @@ The very first blog I ever created. Probably what started it all.\
 const melbournesucks: ProjectData =
 {
   "slug": "melbournesucks",
-  "title": "melbournesucks",
-  "japanese_title": "メルボルン melbournesucks",
+  "title": "Melbournesucks",
+  "japanese_title": "メルボルン Melbournesucks",
   "excerpt": "blogspot. blogspot. blogspot.",
   "description": "\
 The follow up to Adelaidesucks. Ah, the imagination of a 15 year old child.\
@@ -1044,8 +1044,8 @@ The follow up to Adelaidesucks. Ah, the imagination of a 15 year old child.\
 const sydneysucks: ProjectData =
 {
   "slug": "sydneysucks",
-  "title": "sydneysucks",
-  "japanese_title": "シドニー sydneysucks",
+  "title": "Sydneysucks",
+  "japanese_title": "シドニー Sydneysucks",
   "excerpt": "blogspot. blogspot. blogspot.",
   "description": "\
 A more grander version of MelbourneSucks. A teenage blog of sorts.\
@@ -1562,9 +1562,9 @@ The podcast is a compilation of all the radio shows I did with a friend from ye 
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "2011-01-01",
-  "end_date": "2011-01-01",
-  "start_date": "2011-01-01",
+  "date": "2011-06-27", // correct (iTunes)
+  "end_date": "2012-01-28", // correct (iTunes)
+  "start_date": "2011-06-27", // correct (iTunes)
   "socials": [
 
   ],
@@ -1576,8 +1576,8 @@ The podcast is a compilation of all the radio shows I did with a friend from ye 
   ],
   "links": [
     {
-      "title": "title_value",
-      "link": "https://"
+      "title": "iTunes",
+      "link": "https://podcasts.apple.com/us/podcast/we-talk-you-die/id448299058"
     }
   ]
 }
