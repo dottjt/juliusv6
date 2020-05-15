@@ -1453,9 +1453,9 @@ I used to suffer from porn addiction. Then I overcame it and I wanted to help ot
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "2020-03-09", // correct (castbox)
-  "end_date": "2020-08-18", // correct (castbox)
-  "start_date": "2020-03-09", // correct (castbox)
+  "date": "2019-03-09", // correct (castbox)
+  "end_date": "2019-08-18", // correct (castbox)
+  "start_date": "2019-03-09", // correct (castbox)
   "links": [
     {
       "title": "Website",
@@ -1619,7 +1619,7 @@ const theFaptacularOneHourSpecial: ProjectData =
 {
   "slug": "the-faptacular-one-hour-special",
   "title": "Faptacular One Hour Special",
-  "japanese_title": "The Faptacular One Hour Special",
+  "japanese_title": "フラップ The Faptacular One Hour Special",
   "excerpt": "radio. radio. radio.",
   "description": "\
 I think it was trying to be this Hamish and Andy type thing, but it didn't really work out. \
