@@ -60,7 +60,7 @@
 
 .homepage__links__other {
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
 
   flex-wrap: wrap;
@@ -74,9 +74,11 @@
   border-bottom: 1px solid cyan;
   color: #333;
   text-align: center;
-  margin-left: 1.8rem;
-  margin-right: 1.8rem;
-  margin-bottom: 2rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
+
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
 
   font-size: 1.2rem;
 
@@ -90,6 +92,10 @@
 
 @media screen and (min-width: 770px) {
   .homepage__links__other a {
-    margin-bottom: 0;
+    margin-left: 1.8rem;
+    margin-right: 1.8rem;
+
+    margin-top: 0rem;
+    margin-bottom: 0rem;
   }
 }

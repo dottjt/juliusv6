@@ -113,12 +113,13 @@
     <div class="section__border__margin"></div>
 
     {{ range where .Site.Pages.ByDate.Reverse "Section" "projects" }}
-      <a class="box box__archive width_330px" href="{{ .Permalink }}">
+      <a class="box box__archive" href="{{ .Permalink }}">
         <div>
-          <h1>{{ .Params.japanese_title }}</h1>
+          <h1 class="box__archive__title">{{ .Params.japanese_title }}</h1>
           <time>{{ .Date.Format "Mon, Jan 2, 2006" }}</time>
           <p>{{ .Params.excerpt }}</p>
         </div>
+
         <div>
           <p class="category box">
             {{ range .Params.categories }}{{ . }}{{ end }}
@@ -126,8 +127,6 @@
         </div>
       </a>
     {{ end }}
-
-
 
 
 

@@ -49,6 +49,7 @@ body {
   justify-content: space-between;
   text-decoration: none;
   color: black;
+  width: 100%;
 }
 
 .centre {
@@ -63,6 +64,16 @@ body {
 
 .box:hover, .twd__logo:hover {
   box-shadow: -12px 12px 0px 0px black;
+}
+
+.box__archive__title {
+  font-size: 1.4rem;
+  max-width: 32rem;
+}
+
+.archive__container {
+  padding-left: 2rem;
+  padding-right: 2rem;
 }
 
 .section__part {
@@ -125,6 +136,11 @@ body {
     align-items: flex-start;
   }
 
+  .box__archive__title {
+    font-size: 2rem;
+    line-height: 2.8rem;
+  }
+
   .width_330px {
     width: 330px;
   }
@@ -132,6 +148,12 @@ body {
   .box__archive {
     flex-direction: row;
   }
+
+  .archive__container {
+    padding-left: 0rem;
+    padding-right: 0rem;
+  }
+
 
   .category {
     font-size: 1.4rem;
