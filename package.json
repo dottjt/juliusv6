@@ -25,7 +25,14 @@
     "@types/fs-extra": "^8.1.0",
     "dotenv": "^8.2.0",
     "fs-extra": "^9.0.0",
+    "husky": "^4.2.5",
     "ts-node-dev": "^1.0.0-pre.44",
     "typescript": "^3.8.3"
+  },
+  "//husky": {
+    "hooks": {
+      "pre-commit": "cd themes/reade/src && npm run production:build && cd ../../.. && git add .",
+      "//pre-push": ""
+    }
   }
 }
