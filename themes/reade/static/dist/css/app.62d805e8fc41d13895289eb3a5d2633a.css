@@ -5962,7 +5962,7 @@ width_330px
     /* margin-bottom: 4rem; */
   }
 
-@media screen and (min-width: 420px) {
+@media screen and (min-width: 770px) {
     .h1__title__name {
       font-size: 8em;
     }

@@ -1,7 +1,7 @@
 {{ define "main" }}
   <div class="main">
     <h1 class="section__title">Hello. こんにちは。</h1>
-    <div class="section__border__margin"></div>
+    <div class="section__border__margin section__border__margin--bottom"></div>
 
     <div class="box width_330px">
       <img src="images/me/cool2.jpg"/>
@@ -10,11 +10,11 @@
 
     <div class="box width_330px">
       <p>Welcome to my website! <i class="em em-beers" aria-role="presentation" aria-label="CLINKING BEER MUGS"></i></p>
-      <p>This magnificent homepage aims to take you through some of the projects I'm currently working on.</p>
+      <p>This homepage aims to take you through some of the projects I'm currently working on.</p>
       <p>You know, when I'm not churning away at ye ol' 9-to-5. <i class="em em-alarm_clock" aria-role="presentation" aria-label="ALARM CLOCK"></i></p>
     </div>
 
-    <div style="padding-top: 0rem;" class="section__part section__twd">
+    <div style="padding-top: 0rem;" class="section__part">
       <div class="box">
         <h2>毎日<br/> The Writer's Daily <i class="em em-studio_microphone" aria-role="presentation" aria-label=""></i></h2>
         <p class="text">The Writer's Daily is a podcast. </i></p>
@@ -31,8 +31,8 @@
     </div>
 
     <div class="section__border__margin"></div>
-    <h1 style="margin-bottom: 4rem; margin-left: 3rem;">Would you like... more? もっと、えっ？</h1>
-    <div class="section__border__margin"></div>
+    <h1 class="section__title">Would you like... more? もっと、えっ？</h1>
+    <div class="section__border__margin section__border__margin--bottom"></div>
 
     <div class="box width_330px">
       <img  src="images/me/cool3.jpg"/>
@@ -44,7 +44,7 @@
       <p>But you know, I'm just a pretty cool guy all round, so I suggest you get used to it. <i class="em em-point_left" aria-role="presentation" aria-label="WHITE LEFT POINTING BACKHAND INDEX"></i></p>
     </div>
 
-    <div class="section__part section__twd">
+    <div class="section__part">
       <div class="box">
         <h2>チャイナマン <br/>{{ with .Site.GetPage "/projects/writing/how-to-kill-a-chinaman.md" }}{{ .Title }}{{ end }} <i class="em em-closed_book" aria-role="presentation" aria-label="CLOSED BOOK"></i></h2>
         <p class="text">How to kill a Chinaman is a novel.</p>
@@ -60,8 +60,8 @@
     </div>
 
     <div class="section__border__margin"></div>
-    <h1 style="margin-bottom: 4rem; margin-left: 3rem;">This is getting rediculous. ばかげて！</h1>
-    <div class="section__border__margin"></div>
+    <h1 class="section__title">This is getting rediculous. ばかげて！</h1>
+    <div class="section__border__margin section__border__margin--bottom"></div>
 
     <div class="box width_330px">
       <img  src="images/me/cool11.jpg"/>
@@ -73,7 +73,7 @@
       <p>I suppose that makes two of us.</p>
     </div>
 
-    <div class="section__part section__twd">
+    <div class="section__part">
       <div class="box">
         <h2>瞑想<br/> NeverFap Deluxe <i class="em em-sleuth_or_spy" aria-role="presentation" aria-label=""></i></h2>
         <p class="text">NeverFap Deluxe is a website.</p>
@@ -108,30 +108,25 @@
       <p>Below is a continuing list of all the other things I've worked on.</p>
     </div>
 
-    <section class="section__archive">
-      <div class="section__border__margin"></div>
-      <h1 class="section__title">The Archives.　アーカイブ。</h1>
-      <div class="section__border__margin"></div>
+    <div class="section__border__margin"></div>
+    <h1 class="section__title">The Archives.　アーカイブ。</h1>
+    <div class="section__border__margin"></div>
 
-      <div>
-        {{ range where .Site.Pages.ByDate.Reverse "Section" "projects" }}
-          <a class="box" href="{{ .Permalink }}" style="display: flex; justify-content: space-between; text-decoration: none; color: black;">
-            <div>
-              <h1>{{ .Params.japanese_title }}</h1>
-              <time>{{ .Date.Format "Mon, Jan 2, 2006" }}</time>
-              <p>{{ .Params.excerpt }}</p>
-            </div>
-            <div>
-              <p class="category box">
-                {{ range .Params.categories }}{{ . }}{{ end }}
-              </p>
-            </div>
-          </a>
-        {{ end }}
-      </div>
-    </section>
-  </div>
-{{ end }}
+    {{ range where .Site.Pages.ByDate.Reverse "Section" "projects" }}
+      <a class="box box__archive width_330px" href="{{ .Permalink }}">
+        <div>
+          <h1>{{ .Params.japanese_title }}</h1>
+          <time>{{ .Date.Format "Mon, Jan 2, 2006" }}</time>
+          <p>{{ .Params.excerpt }}</p>
+        </div>
+        <div>
+          <p class="category box">
+            {{ range .Params.categories }}{{ . }}{{ end }}
+          </p>
+        </div>
+      </a>
+    {{ end }}
+
 
 
 
@@ -191,3 +186,6 @@
 
       </div>
   {{ end }} -->
+
+</div>
+{{ end }}

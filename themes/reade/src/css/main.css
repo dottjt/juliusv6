@@ -6,7 +6,3 @@
 @import '_outside';
 @import '_header';
 @import '_titles';
-
-.category {
-  font-size: 1.4rem;
-}

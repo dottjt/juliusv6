@@ -26,7 +26,8 @@ h2 {
 }
 
 .section__title {
-  margin-left: 0rem;
+  margin-left: 4rem;
+  width: 100%;
 }
 
 
@@ -61,7 +62,7 @@ p {
 }
 
 
-@media screen and (min-width: 420px) {
+@media screen and (min-width: 770px) {
   .h1__title__name {
     font-size: 8em;
   }

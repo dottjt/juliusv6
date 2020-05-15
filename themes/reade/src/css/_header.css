@@ -60,6 +60,10 @@
 
 .homepage__links__other {
   display: flex;
+  justify-content: center;
+  align-items: center;
+
+  flex-wrap: wrap;
 }
 
 .homepage__links__other a {
@@ -72,6 +76,7 @@
   text-align: center;
   margin-left: 1.8rem;
   margin-right: 1.8rem;
+  margin-bottom: 2rem;
 
   font-size: 1.2rem;
 
@@ -80,4 +85,11 @@
 
 .homepage__links__other a:hover {
   color: lighten( #333, 20% );
+}
+
+
+@media screen and (min-width: 770px) {
+  .homepage__links__other a {
+    margin-bottom: 0;
+  }
 }

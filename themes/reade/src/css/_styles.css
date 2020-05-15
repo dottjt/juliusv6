@@ -1,98 +1,139 @@
-  /* Put your custom styles here and run `npm start` from the "src" directory on */
-  body {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-  }
+/* Put your custom styles here and run `npm start` from the "src" directory on */
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
 
-  /* #00ffee */
-  /* rgba(255,46,182,1) */
+/* #00ffee */
+/* rgba(255,46,182,1) */
 
-  .section__twd {
-    display: flex;
-    flex-direction: column;
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-left: 1rem;
+  padding-right: 1rem;
+
+  overflow: hidden;
+}
+
+.width_330px {
+  width: 100%;
+}
+
+.box {
+  margin-bottom: 2rem;
+  box-shadow: -6px 6px 0px 0px black;
+
+  border: 2px solid black;
+  padding: 1.5rem;
+  transition: 0.3s;
+}
+
+
+.box {
+  margin-bottom: 2rem;
+  box-shadow: -6px 6px 0px 0px black;
+
+  border: 2px solid black;
+  padding: 1.5rem;
+  transition: 0.3s;
+}
+
+.box__archive {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  text-decoration: none;
+  color: black;
+}
+
+.centre {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-left: 1.6rem;
+  padding-right: 1.6rem;
+
+}
+
+.box:hover, .twd__logo:hover {
+  box-shadow: -12px 12px 0px 0px black;
+}
+
+.section__part {
+  display: flex;
+  flex-direction: column;
+}
+
+.section__part .text {
+  font-size: 1.4rem;
+  line-height: 2rem;
+}
+
+.section__border {
+  height: 2px;
+  width: 100%;
+  background: black;
+  box-shadow: 12px -12px 0px 0px black;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.section__border__margin {
+  height: 2px;
+  width: 100%;
+  background: black;
+  box-shadow: 12px -12px 0px 0px black;
+  margin-top: 2.5rem;
+  margin-bottom: 2rem;
+}
+
+.section__border__margin--bottom {
+  margin-bottom: 4rem;
+}
+
+.links {
+  display: flex;
+  flex-direction: column;
+}
+
+.content {
+  max-width: 600px;
+
+  min-height: 500px;
+}
+
+.section__twd__bottom {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.category {
+  font-size: 1rem;
+}
+
+@media screen and (min-width: 770px) {
+  .main {
+    max-width: 700px;
+    padding-left: 0rem;
+    padding-right: 0rem;
+    align-items: flex-start;
   }
 
   .width_330px {
     width: 330px;
-    /* I'm guessing this should be 100% */
   }
 
-  .box {
-    margin-bottom: 2rem;
-    box-shadow: -6px 6px 0px 0px black;
-
-    border: 2px solid black;
-    padding: 1.5rem;
-    transition: 0.3s;
+  .box__archive {
+    flex-direction: row;
   }
 
-  .centre {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-  }
-
-  .box:hover, .twd__logo:hover {
-    box-shadow: -12px 12px 0px 0px black;
-  }
-
-  .section__part .text {
+  .category {
     font-size: 1.4rem;
-    line-height: 2rem;
   }
-
-  .section__border {
-    height: 2px;
-    width: 100%;
-    background: black;
-    box-shadow: 12px -12px 0px 0px black;
-    margin-top: 2rem;
-    margin-bottom: 2rem;
-  }
-
-  .section__border__margin {
-    height: 2px;
-    width: 100%;
-    background: black;
-    box-shadow: 12px -12px 0px 0px black;
-    margin-top: 2.5rem;
-    margin-bottom: 4rem;
-  }
-
-
-  .main {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-  }
-
-  @media screen and (min-width: 420px) {
-    .main {
-      max-width: 700px;
-      align-items: flex-start;
-    }
-
-    .width_330px {
-      width: 330px;
-    }
-  }
-
-  .links {
-    display: flex;
-    flex-direction: column;
-  }
-
-  .content {
-    max-width: 600px;
-
-    min-height: 500px;
-  }
-
-  .section__twd__bottom {
-    margin-top: 2rem;
-    margin-bottom: 2rem;
-  }
+}
