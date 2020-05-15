@@ -616,9 +616,9 @@ My first novel.\
   "background_image": "images/cool/cool2.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "2020-01-01T23:00:07+10:00",
-  "end_date": "present",
-  "start_date": "2020-01-01T23:00:07+10:00",
+  "date": "2020-01-02T23:00:07+10:00", // correct (Github)
+  "end_date": "present", // correct (Github)
+  "start_date": "2020-01-02T23:00:07+10:00", // correct (Github)
   "socials": [
 
   ],
@@ -1208,9 +1208,9 @@ I went absolutely off the rails. Some of my favourite work.\
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "2012-01-01",
-  "end_date": "2013-01-01",
-  "start_date": "2012-01-01",
+  "date": "2015-11-29", // correct (YouTube Playlist)
+  "end_date": "2016-03-25", // correct (YouTube Playlist)
+  "start_date": "2015-11-29", // correct (YouTube Playlist)
   "socials": [
 
   ],
@@ -1242,9 +1242,9 @@ I did, but didn't. I was niche.\
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "2012-01-01",
-  "end_date": "2013-01-01",
-  "start_date": "2012-01-01",
+  "date": "2012-01-01", // correct (YouTube Playlist)
+  "end_date": "2012-12-04", // correct (YouTube Playlist)
+  "start_date": "2012-01-01", // correct (YouTube Playlist)
   "socials": [
 
   ],
@@ -1275,9 +1275,9 @@ It wasn't the first YouTube video I did, but it went viral and that was pretty c
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "2011-01-01",
-  "end_date": "2011-01-01",
-  "start_date": "2011-01-01",
+  "date": "2011-09-26", // correct (YouTube Video)
+  "end_date": "2011-09-26", // correct (YouTube Video)
+  "start_date": "2011-09-26", // correct (YouTube Video)
   "socials": [
 
   ],
@@ -1290,7 +1290,7 @@ It wasn't the first YouTube video I did, but it went viral and that was pretty c
   "links": [
     {
       "title": "Youtube",
-      "link": "https://www.youtube.com/user/thefinancialreality"
+      "link": "https://www.youtube.com/watch?v=Kz6xG2YtyyE"
     }
   ]
 }
@@ -1309,9 +1309,9 @@ It did not suffice.\
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "2009-01-01",
-  "end_date": "2009-01-01",
-  "start_date": "2009-01-01",
+  "date": "2012-04-06", // correct (YouTube Playlist)
+  "end_date": "2012-04-30", // correct (YouTube Playlist)
+  "start_date": "2012-04-06", // correct (YouTube Playlist)
   "socials": [
 
   ],
@@ -1343,9 +1343,9 @@ famous YouTube stars. Obviously that didn't pan out.\
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "2015-01-01",
-  "end_date": "2016-01-01",
-  "start_date": "2015-01-01",
+  "date": "2011-02-01",
+  "end_date": "2011-02-01",
+  "start_date": "2011-02-01",
   "socials": [
 
   ],
@@ -1416,9 +1416,9 @@ I decided to record a free meditation series. The first few iterations are prett
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "2019-05-12",
-  "end_date": "2019-05-12",
-  "start_date": "2019-05-12",
+  "date": "2019-05-25", // correct (Castbox)
+  "end_date": "2019-07-14", // correct (Castbox)
+  "start_date": "2019-05-25", // correct (Castbox)
   "links": [
     {
       "title": "Castbox",
@@ -1453,9 +1453,9 @@ I used to suffer from porn addiction. Then I overcame it and I wanted to help ot
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "2019-03-09", // correct (castbox)
-  "end_date": "2019-08-18", // correct (castbox)
-  "start_date": "2019-03-09", // correct (castbox)
+  "date": "2019-03-09", // correct (Castbox)
+  "end_date": "2019-08-18", // correct (Castbox)
+  "start_date": "2019-03-09", // correct (Castbox)
   "links": [
     {
       "title": "Website",
@@ -1491,9 +1491,9 @@ Oh, the things I did for fame.\
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "2012-01-01",
-  "end_date": "2013-01-01",
-  "start_date": "2012-01-01",
+  "date": "2012-09-17", // correct (iTunnes)
+  "end_date": "2013-06-14", // correct (iTunnes)
+  "start_date": "2012-09-17", // correct (iTunnes)
   "socials": [
 
   ],
@@ -1529,9 +1529,9 @@ Ultimately what I ended up producing was a financial comedy podcast. Crazy times
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "2012-01-01",
-  "end_date": "2012-01-01",
-  "start_date": "2012-01-01",
+  "date": "2012-01-08", // correct (Podomatic)
+  "end_date": "2012-10-20", // correct (Podomatic)
+  "start_date": "2012-01-08", // correct (Podomatic)
   "socials": [
 
   ],
@@ -1599,7 +1599,7 @@ Even though I did it for three years, it wasn't very enjoyable and I wasn't very
   "draft": false,
   "status": Status.Archive,
   "date": "2012-01-01",
-  "end_date": "2015-01-01",
+  "end_date": "2015-02-01",
   "start_date": "2012-01-01",
   "socials": [
 
@@ -1689,9 +1689,9 @@ I wanted to do a show about conspiracy theories. It was okay.\
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "2011-01-01",
-  "end_date": "2011-01-01",
-  "start_date": "2011-01-01",
+  "date": "2010-01-01",
+  "end_date": "2010-01-01",
+  "start_date": "2010-01-01",
   "socials": [
 
   ],
@@ -1719,9 +1719,9 @@ I wanted to produce an edgy radio show about finance. It was super lame.\
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "2011-01-01",
-  "end_date": "2011-01-01",
-  "start_date": "2011-01-01",
+  "date": "2010-01-01",
+  "end_date": "2010-01-01",
+  "start_date": "2010-01-01",
   "socials": [
 
   ],
@@ -1750,7 +1750,7 @@ The first radio show I ever did. I was 16 years old at the time.\
   "draft": false,
   "status": Status.Archive,
   "date": "2009-01-01",
-  "end_date": "2010-01-01",
+  "end_date": "2009-01-01",
   "start_date": "2009-01-01",
   "socials": [
 
