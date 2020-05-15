@@ -4,6 +4,7 @@
 @import '_social-icons';
 @import '_styles';
 @import '_outside';
+@import '_header';
 
 .h1__title__name__container {
   overflow: hidden;
@@ -18,4 +19,13 @@
   font-size: 7rem;
   /* font-size: 27rem; */
   /* font-size: 12rem; */
+}
+
+h2 {
+  font-size: 5rem;
+  line-height: 7.5rem;
+}
+
+.category {
+  font-size: 1.4rem;
 }

@@ -8,11 +8,14 @@ Welcome to my website.
 
 That's all, really.
 
-\-
+ありがとうございました。
 
 **Links:**
 
-Medium: https://medium.com/@JuliusReade
-Linkedin: https://www.linkedin.com/in/juliusreade/
-Twitter: https://twitter.com/juliusreade
-Github: https://github.com/dottjt
+https://medium.com/@JuliusReade
+
+https://www.linkedin.com/in/juliusreade/
+
+https://twitter.com/juliusreade
+
+https://github.com/dottjt

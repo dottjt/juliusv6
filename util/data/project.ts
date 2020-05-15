@@ -55,9 +55,9 @@ who traditionally struggle with meditation. There is a web app, as well as a mob
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Active,
-  "date": "2020-08-05", // correct (commit)
+  "date": "2019-08-05", // correct (commit)
   "end_date": "2019-08-20", // correct (commit)
-  "start_date": "2020-08-05", // correct (commit)
+  "start_date": "2019-08-05", // correct (commit)
   "links": [
     {
       "title": "Website",
@@ -77,7 +77,10 @@ who traditionally struggle with meditation. There is a web app, as well as a mob
     }
   ],
   "socials": [
-
+    {
+      "title": "Reddit",
+      "link": "https://www.reddit.com/r/hovering/"
+    },
   ],
   "tags": [
     "website",
@@ -125,7 +128,22 @@ Hell we even have a mobile app too.\
     }
   ],
   "socials": [
-
+    {
+      "title": "Reddit",
+      "link": "https://www.reddit.com/r/neverfapdeluxe/"
+    },
+    {
+      "title": "Discord",
+      "link": "https://discord.gg/Sg6PSsK"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/neverfapdeluxe"
+    },
+    {
+      "title": "Facebook",
+      "link": "https://facebook.com/NeverFapDeluxe/"
+    }
   ],
   "tags": [
     "website",
@@ -179,7 +197,7 @@ const pokeML: ProjectData =
   "slug": "pokeml",
   "title": "PokeML",
   "japanese_title": "ポケットモンスター PokeML",
-  "excerpt": "pikachu pikachu pikachu.",
+  "excerpt": "pikachu. pikachu. pikachu.",
   "description": "\
 A Pokemon image tagging platform/database for machine learning purposes. \
 I got a long way, but never ended up completing it once I realised that \
@@ -589,7 +607,7 @@ const howToKillAChinaman: ProjectData =
 {
   "slug": "how-to-kill-a-chinaman",
   "title": "How to kill a Chinaman",
-  "japanese_title": "ミディアム How to kill a Chinaman",
+  "japanese_title": "チャイナマン How to kill a Chinaman",
   "excerpt": "kill. kill. kill.",
   "description": "\
 My first novel.\
@@ -951,8 +969,8 @@ It was both one of the best and worst things that's ever happened to me.\
 const adelaidesucks: ProjectData =
 {
   "slug": "adelaidesucks",
-  "title": "adelaidesucks",
-  "japanese_title": "アデレード adelaidesucks",
+  "title": "Adelaidesucks",
+  "japanese_title": "アデレード Adelaidesucks",
   "excerpt": "blogspot. blogspot. blogspot.",
   "description": "\
 The very first blog I ever created. Probably what started it all.\
@@ -1366,8 +1384,12 @@ Alas, this podcast was created. It is absolutely insane.\
   "start_date": "2020-05-18T05:43:32+10:00",
   "links": [
     {
-      "title": "",
-      "link": "https://neverfapdeluxe.com/"
+      "title": "Website",
+      "link": "https://thewritersdaily.juliusreade.com/"
+    },
+    {
+      "title": "Castbox",
+      "link": "https://castbox.fm/ch/2852897/"
     }
   ],
   "socials": [
@@ -1400,7 +1422,7 @@ I decided to record a free meditation series. The first few iterations are prett
   "links": [
     {
       "title": "Castbox",
-      "link": "https://neverfapdeluxe.com/"
+      "link": "https://castbox.fm/channel/The-NeverFap-Deluxe-Guided-Meditation-Series-id2113294"
     },
     {
       "title": "SoundCloud",
