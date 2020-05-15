@@ -15,8 +15,8 @@
 }
 
 h2 {
-  font-size: 5rem;
-  line-height: 7.5rem;
+  font-size: 2rem;
+  line-height: 2.5rem;
 }
 
 .em {
@@ -64,6 +64,11 @@ p {
 @media screen and (min-width: 420px) {
   .h1__title__name {
     font-size: 8em;
+  }
+
+  h2 {
+    font-size: 5rem;
+    line-height: 7.5rem;
   }
 
   .section__title {

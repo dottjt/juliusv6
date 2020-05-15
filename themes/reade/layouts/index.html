@@ -109,13 +109,11 @@
     </div>
 
     <section class="section__archive">
-
       <div class="section__border__margin"></div>
       <h1 class="section__title">The Archives.　アーカイブ。</h1>
       <div class="section__border__margin"></div>
 
       <div>
-        <!-- orders content according to the "date" field in front matter -->
         {{ range where .Site.Pages.ByDate.Reverse "Section" "projects" }}
           <a class="box" href="{{ .Permalink }}" style="display: flex; justify-content: space-between; text-decoration: none; color: black;">
             <div>
@@ -131,8 +129,14 @@
           </a>
         {{ end }}
       </div>
-
     </section>
+  </div>
+{{ end }}
+
+
+
+
+
 
   <!-- <article class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy mid-gray">
     {{ .Content }}
@@ -187,5 +191,3 @@
 
       </div>
   {{ end }} -->
-  </div>
-{{ end }}
