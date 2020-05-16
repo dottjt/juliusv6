@@ -3,6 +3,13 @@ import path from 'path';
 import fse from 'fs-extra';
 import fetch from 'node-fetch';
 
+const projectIndexFile = {
+  "slug":"projects",
+  "title": "Projects",
+  "description": "A list of all the projects I've created.",
+  "draft": false
+}
+
 const validateProjectUrls = async (projectData: ProjectData): Promise<void> => {
   const links =
     projectData.links
@@ -40,6 +47,11 @@ export const generateHugoMDFiles = async (projectDataList: ProjectData[]): Promi
       const fileContents = getFileContents(projectData);
       fse.outputFileSync(filePath, fileContents);
     }
+
+    // create project _index.md
+    const projectFilePath = path.join(__dirname, '..', 'content/projects/_index.md');
+    const projectFileContents = JSON.stringify(projectIndexFile);
+    fse.outputFileSync(projectFilePath, projectFileContents);
 
     console.log('finished template creation.')
   } catch(error) {

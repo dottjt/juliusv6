@@ -17,9 +17,9 @@ It's basically been designed with my writing career in mind.\
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Active,
-  "date": "2020-05-12T05:43:32+10:00", // correct (commit)
+  "date": "2020-05-12", // correct (commit)
   "end_date": "present", // correct
-  "start_date": "2020-05-12T05:43:32+10:00", // correct (commit)
+  "start_date": "2020-05-12", // correct (commit)
   "links": [
     {
       "title": "Website",
@@ -106,9 +106,9 @@ Hell we even have a mobile app too.\
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Active,
-  "date": "2019-01-15T05:43:32+10:00", // correct (first commit of NFD-API)
+  "date": "2019-01-15", // correct (first commit of NFD-API)
   "end_date": "present", // correct
-  "start_date": "2019-01-15T05:43:32+10:00", // correct (first commit of NFD-API)
+  "start_date": "2019-01-15", // correct (first commit of NFD-API)
   "links": [
     {
       "title": "Website",
@@ -1383,9 +1383,9 @@ Alas, this podcast was created. It is absolutely insane.\
   "background_image": "images/cool/coola.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "2020-05-18T05:43:32+10:00",
+  "date": "2020-05-18",
   "end_date": "present",
-  "start_date": "2020-05-18T05:43:32+10:00",
+  "start_date": "2020-05-18",
   "links": [
     {
       "title": "Website",

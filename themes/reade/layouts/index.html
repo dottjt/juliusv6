@@ -113,7 +113,7 @@
     <div class="section__border__margin"></div>
 
     {{ range where .Site.Pages.ByDate.Reverse "Section" "projects" }}
-      {{ if eq .Slug "" }} <!-- This effectively removes the folders i.e. /projects. -->
+      {{ if eq .Slug "projects" }} <!-- This effectively removes the folders i.e. /projects. -->
 
       {{ else }}
       <a class="box box__archive" href="{{ .Permalink }}">

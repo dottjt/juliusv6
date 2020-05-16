@@ -1,6 +1,7 @@
 {
   "slug":"about",
   "title":"About",
+  "description":"Learn more about me.",
   "draft": false
 }
 
