@@ -3,6 +3,13 @@ languageCode = "en-gb"
 title = "Julius Reade"
 theme = "reade"
 
+googleAnalytics = "UA-85083093-1"
+
 [taxonomies]
   category = "categories"
   tag = "tags"
+
+[params]
+  description = "#YOLO."
+  images = ["images/logo.png"]
+  title = "Julius Reade"

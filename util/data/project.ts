@@ -770,7 +770,7 @@ Absolutely 100% should have left Tumblr at this point.\
   "links": [
     {
       "title": "Website",
-      "link": "c"
+      "link": "https://elegantlyattached.tumblr.com/"
     },
     {
       "title": "Github",
