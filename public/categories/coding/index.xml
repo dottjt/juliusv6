@@ -93,15 +93,6 @@
     </item>
     
     <item>
-      <title>Personal Website</title>
-      <link>https://juliusreade.com/projects/coding/julius-reade-v2/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://juliusreade.com/projects/coding/julius-reade-v2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Personal Website V3</title>
       <link>https://juliusreade.com/projects/coding/julius-reade-v3/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
@@ -116,6 +107,15 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://juliusreade.com/projects/coding/better-image-reference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal Website V2</title>
+      <link>https://juliusreade.com/projects/coding/julius-reade-v2/</link>
+      <pubDate>Sun, 30 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliusreade.com/projects/coding/julius-reade-v2/</guid>
       <description></description>
     </item>
     

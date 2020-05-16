@@ -29,8 +29,8 @@ themes/reade/docs/
 themes/reade/junit.xml
 themes/reade/partials/structure/stylesheet.html
 
-themes/reade/static/dist/css
-themes/reade/static/dist/js
+# themes/reade/static/dist/css
+# themes/reade/static/dist/js
 
 public
 node_modules

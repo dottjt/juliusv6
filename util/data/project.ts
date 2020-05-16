@@ -386,7 +386,7 @@ const juliusV3: ProjectData =
 {
   "slug": "julius-reade-v3",
   "title": "Personal Website V3",
-  "japanese_title": "直々 Personal Website",
+  "japanese_title": "直々 Personal Website V3",
   "excerpt": "elixir. phoenix. sass.",
   "description": "\
 This intended to be a full display of everything I've ever created. \
@@ -531,8 +531,8 @@ an utterly piece of crap, but it was an incredible learning experience.\
 const juliusV2: ProjectData =
 {
   "slug": "julius-reade-v2",
-  "title": "Personal Website",
-  "japanese_title": "私的な Personal Website",
+  "title": "Personal Website V2",
+  "japanese_title": "私的な Personal Website V2",
   "excerpt": "elixir. phoenix. elm.",
   "description": "\
 This is the website you're currently looking at. It's built with Phoenix Framework \
@@ -543,9 +543,9 @@ I think it looks nice.\
   "background_image": "images/cool/coolg.jpg",
   "draft": false,
   "status": Status.Archive,
-  "date": "2018-01-01",
-  "end_date": "2018-01-01",
-  "start_date": "2018-01-01",
+  "date": "2016-10-30", // correct (Github)
+  "end_date": "2018-01-17", // correct (Github)
+  "start_date": "2016-10-30", // correct (Github)
   "socials": [
 
   ],
@@ -557,9 +557,13 @@ I think it looks nice.\
   ],
   "links": [
     {
-      "title": "Website",
-      "link": "https://v2.juliusreade.com/"
+      "title": "Github",
+      "link": "https://github.com/dottjt/juliusv2/"
     }
+    // {
+    //   "title": "Website",
+    //   "link": "https://v2.juliusreade.com/"
+    // }
   ]
 }
 
@@ -695,10 +699,10 @@ The internet ramblings of a disposed 23-year-old.\
     "writing"
   ],
   "links": [
-    {
-      "title": "Website",
-      "link": "https://v2.juliusreade.com/"
-    }
+    // {
+    //   "title": "Website",
+    //   "link": "https://v2.juliusreade.com/"
+    // }
   ]
 }
 
