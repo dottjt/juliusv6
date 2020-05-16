@@ -233,7 +233,7 @@ const watashiEngine: ProjectData =
   "slug": "watashi-engine",
   "title": "Watashi Engine",
   "japanese_title": "私 Watashi Engine",
-  "excerpt": "私 私 私",
+  "excerpt": "私。私。私。",
   "description": "\
 A Japanese Language Engine I was attempting to build. \
 It was quite complex and functional, although ultimately \
