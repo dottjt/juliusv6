@@ -1,4 +1,4 @@
-<div class="relative w-100 mb4 bg-white nested-copy-line-height">
+{{/*  <div class="relative w-100 mb4 bg-white nested-copy-line-height">
   <div class="bg-white mb3 pa4 gray overflow-hidden">
     <span class="f6 db">{{ humanize .Section }}</span>
     <h1 class="f3 near-black">
@@ -12,4 +12,37 @@
       {{ .Summary  }}
     </div>
   </div>
+</div>  */}}
+
+
+<div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <a href="{{ .Permalink }}" class="link black dim">
+    <div class="bg-white mb3 pa4 gray overflow-hidden">
+      <span class="f6 db">{{ humanize .Section }}</span>
+      <h1 class="f3 near-black">
+          {{ .Params.japanese_title }}
+      </h1>
+      <time>{{ .Date.Format "Mon, Jan 2, 2006" }}</time>
+
+      <div style="margin-top: 1rem;">
+        {{ range .Params.categories }}
+          <span class="category">
+            #{{ . }}
+          </span>
+        {{ end }}
+
+        {{ range .Params.tags }}
+          <span class="category">
+            #{{ . }}
+          </span>
+        {{ end }}
+      </div>
+
+      {{/*  <div class="nested-links f5 lh-copy nested-copy-line-height">
+        {{ .Summary  }}
+      </div>  */}}
+    </div>
+  </a>
 </div>
+
+

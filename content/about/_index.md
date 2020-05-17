@@ -1,6 +1,7 @@
 {
   "slug":"about",
   "title":"About",
+  "date": "2020-05-11",
   "description":"Learn more about me.",
   "draft": false
 }

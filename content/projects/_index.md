@@ -1,1 +1,1 @@
-{"slug":"projects","title":"Projects","description":"A list of all the projects I've created.","draft":false}
+{"slug":"projects","title":"Projects","date":"2020-05-11","description":"A list of all the projects I've created.","draft":false}

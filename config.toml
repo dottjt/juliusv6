@@ -11,5 +11,5 @@ googleAnalytics = "UA-85083093-1"
 
 [params]
   description = "#YOLO."
-  images = ["images/logo.png"]
+  images = ["images/me/cool2.jpeg"] # TODO: make this into a square image
   title = "Julius Reade"
