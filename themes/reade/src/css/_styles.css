@@ -116,7 +116,7 @@ body {
 }
 
 .section__border__margin--bottom {
-  margin-bottom: 3rem;
+  margin-bottom: 4rem;
 }
 
 .links {
@@ -125,9 +125,12 @@ body {
 }
 
 .content {
-  max-width: 600px;
+  /* max-width: 600px; */
 
-  min-height: 500px;
+  min-height: 450px;
+}
+.content__max__width {
+  max-width: 600px;
 }
 
 .section__twd__bottom {

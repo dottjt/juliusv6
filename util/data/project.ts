@@ -362,13 +362,13 @@ which people could apply to their lives.\
   "end_date": "2018-05-12",
   "start_date": "2018-05-12",
   "links": [
-    // {
-    //   "title": "Website",
-    //   "link": "https://characterjump.com/" // I don't think this ever existed.
-    // },
     {
-      "title": "Github",
+      "title": "Github (V2)",
       "link": "https://github.com/dottjt/CharacterJumpTwo/"
+    },
+    {
+      "title": "Github (V1)",
+      "link": "https://github.com/dottjt/CharacterJump/"
     }
   ],
   "socials": [
@@ -1841,8 +1841,5 @@ export const projectDataList: ProjectData[] =
     .concat(projectsYouTube)
     .concat(projectsRadio)
 
-export const projectCategories: string[] = ['todo'];
+// TODO Mention MySpace Comedy Profiles
 
-// export const projectsSortByDate: ProjectData[] = ['todo']
-
-// I'm guessing it truly makes sense to sort by end-date.

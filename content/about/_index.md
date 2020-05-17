@@ -21,3 +21,8 @@ https://www.linkedin.com/in/juliusreade/
 https://twitter.com/juliusreade
 
 https://github.com/dottjt
+
+**Contact:**
+
+julius.reade@gmail.com
+

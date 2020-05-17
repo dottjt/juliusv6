@@ -6,3 +6,9 @@
 @import '_outside';
 @import '_header';
 @import '_titles';
+
+
+.em-badger {
+  position: relative;
+  top: -0.3rem;
+}

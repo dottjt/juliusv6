@@ -1,11 +1,11 @@
 {{ define "main" }}
   <div class="main">
     <h1 class="section__title">Hello. こんにちは。</h1>
-    <div class="section__border__margin section__border__margin--bottom"></div>
+    <div class="section__border__margin section__border__margin--bottom" style="margin-bottom: 3rem;"></div>
 
     <div class="box width_330px">
       <img src="/images/me/cool2.jpg"/>
-      <p class="small__text">It's me ^^.</p>
+      <p class="small__text">It's me. ^^</p>
     </div>
 
     <div class="box width_330px">
@@ -19,14 +19,16 @@
         <h2>毎日<br/> The Writer's Daily <i class="em em-studio_microphone" aria-role="presentation" aria-label=""></i></h2>
         <p class="text">The Writer's Daily is a podcast. </i></p>
         <p class="text">It's an anthem for new ideas, discussion, storytelling, writing, inspiration and everything else in-between. <i class="em em-tada" aria-role="presentation" aria-label="PARTY POPPER"></i></p>
-        <p class="hashtag">#thewritersdaily</p>
+        <a href="https://thewritersdaily.juliusreade.com"><p class="hashtag">#thewritersdaily</p></a>
       </div>
       <div class="centre">
-        <img class="box width_330px" src="/images/twd/logo_512_non_transparent.png" />
         <div class="links__bottom homepage__links__other">
           <a href="https://thewritersdaily.juliusreade.com">Website</a>
           <a href="https://castbox.fm/ch/2852897">Podcast</a>
         </div>
+        <a href="https://thewritersdaily.juliusreade.com">
+          <img class="box width_330px" src="/images/twd/logo_512_non_transparent.png" />
+        </a>
       </div>
     </div>
 
@@ -40,7 +42,7 @@
     </div>
 
     <div class="box width_330px">
-      <p class="small__text">Okay, so I know that was pretty cool.</p>
+      <p class="small__text">Okay, so that was pretty cool.</p>
       <p class="small__text">But you know, I'm just a pretty cool guy all round, so I suggest you get used to it. <i class="em em-point_left" aria-role="presentation" aria-label="WHITE LEFT POINTING BACKHAND INDEX"></i></p>
     </div>
 
@@ -49,13 +51,17 @@
         <h2>チャイナマン <br/>{{ with .Site.GetPage "/projects/writing/how-to-kill-a-chinaman.md" }}{{ .Title }}{{ end }} <i class="em em-closed_book" aria-role="presentation" aria-label="CLOSED BOOK"></i></h2>
         <p class="text">How to kill a Chinaman is a novel.</p>
         <p class="text">The manuscript should be complete sometime in 2021. <i class="em em-scroll" aria-role="presentation" aria-label="SCROLL"></i></p>
-        <p class="hashtag">#howtokillachinaman</p>
+        <a href="https://howtokillachinaman.juliusreade.com">
+          <p class="hashtag">#howtokillachinaman</p>
+        </a>
       </div>
       <div class="centre">
-        <img class="box width_330px" src="/images/htkac/cover_alt.png" />
         <div class="links__bottom homepage__links__other">
-          <a href="https://thewritersdaily.juliusreade.com">Website</a>
+          <a href="https://howtokillachinaman.juliusreade.com">Website</a>
         </div>
+        <a href="https://howtokillachinaman.juliusreade.com">
+          <img class="box width_330px" src="/images/htkac/cover_alt.png" />
+        </a>
       </div>
     </div>
 
@@ -69,7 +75,7 @@
     </div>
 
     <div class="box width_330px">
-      <p class="small__text">Oh, so you've fallen in love with me and my delorious wit?</p>
+      <p class="small__text">Oh, so you've fallen in love with me and my delorious wit!?</p>
       <p class="small__text">Let's arrange a date. <i class="em em-gift_heart" aria-role="presentation" aria-label="HEART WITH RIBBON"></i></p>
     </div>
 
@@ -78,10 +84,11 @@
         <h2>瞑想<br/> NeverFap Deluxe <i class="em em-sleuth_or_spy" aria-role="presentation" aria-label=""></i></h2>
         <p class="text">NeverFap Deluxe is a website.</p>
         <p class="text">I overcame pornography addiction in 2019 and I wanted to help others do the same too.</p>
-        <p class="hashtag">#neverfapdeluxe</p>
+        <a href="https://neverfapdeluxe.com">
+          <p class="hashtag">#neverfapdeluxe</p>
+        </a>
       </div>
       <div class="centre">
-        <img class="box width_330px" src="/images/logo__out__512.png" />
         <div class="links__bottom homepage__links__other">
           <a href="https://neverfapdeluxe.com">Website</a>
           <a href="https://castbox.fm/channel/The-NeverFap-Deluxe-Podcast-id2045024">Podcast</a>
@@ -89,27 +96,31 @@
           <a href="https://discord.gg/Sg6PSsK">Discord</a>
           <a href="http://github.com/neverfap-deluxe">Github</a>
         </div>
+        <a href="https://neverfapdeluxe.com">
+          <img class="box width_330px" src="/images/logo__out__512.png" />
+        </a>
       </div>
     </div>
 
     <div class="section__border__margin"></div>
     <h1 class="section__title">#YOLO. #萬歲。</h1>
-    <div class="section__border__margin"></div>
+    <div class="section__border__margin section__border__margin--bottom"></div>
 
     <div class="box width_330px">
       <img  src="/images/me/coole.jpg"/>
-      <p class="small__text">We walk amongst the giants.</p>
+      <p class="small__text">We walk amongst the giants.<i class="em em-badger" aria-role="presentation" aria-label="BADGER"></i></p>
     </div>
 
     <div class="box width_330px">
       <p class="small__text">Anyway, that's all I really have to showcase for today.</p>
       <p class="small__text">Thank you for visiting. You've been fantastic! <i class="em em-confetti_ball" aria-role="presentation" aria-label="CONFETTI BALL"></i></p>
       <p class="small__text">Below is a continuing list of all the other things I've worked on.</p>
+      {{/*  <p class="small__text">Most to a point of obsession. <i class="em em-man-running" aria-role="presentation" aria-label=""></i></p>  */}}
     </div>
 
     <div class="section__border__margin"></div>
     <h1 class="section__title">The Archives.　アーカイブ。</h1>
-    <div class="section__border__margin"></div>
+    <div class="section__border__margin section__border__margin--bottom"></div>
 
     {{ range where .Site.Pages.ByDate.Reverse "Section" "projects" }}
       {{ if eq .Slug "projects" }} <!-- This effectively removes the folders i.e. /projects. -->

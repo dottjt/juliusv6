@@ -64,6 +64,8 @@
   align-items: center;
 
   flex-wrap: wrap;
+
+  margin-bottom: 3rem;
 }
 
 .homepage__links__other a {
