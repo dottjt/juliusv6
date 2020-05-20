@@ -16,7 +16,7 @@ That's all, really.
 
 https://medium.com/@JuliusReade
 
-https://www.linkedin.com/in/juliusreade/
+https://linkedin.com/in/juliusreade
 
 https://twitter.com/juliusreade
 

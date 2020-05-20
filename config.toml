@@ -13,3 +13,6 @@ googleAnalytics = "UA-85083093-1"
   description = "#YOLO."
   images = ["images/me/cool2-square.jpeg"] # TODO: make this into a square image
   title = "Julius Reade"
+
+[markup.goldmark.renderer]
+unsafe= true
