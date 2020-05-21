@@ -1085,8 +1085,8 @@ A more grander version of MelbourneSucks. A teenage blog of sorts.\
 const hobartsucks: ProjectData =
 {
   "slug": "hobartsucks",
-  "title": "hobartsucks",
-  "japanese_title": "ホバート hobartsucks",
+  "title": "Hobartsucks",
+  "japanese_title": "ホバート Hobartsucks",
   "excerpt": "blogspot. blogspot. blogspot.",
   "description": "\
 I have literally no idea what was on this blog, if anything at all. \
