@@ -1,7 +1,7 @@
 {
   "slug":"",
-  "title": "Homepage",
+  "title": "",
   "date": "2020-05-11",
-  "description": "I understand how to use my keyboard well.",
+  "description": "A website.",
   "draft": false
 }
