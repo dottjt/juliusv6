@@ -1,14 +1,10 @@
-import { config } from 'dotenv';
-config();
-
-import { generateHugoMDFiles } from './generate';
-// import { getProjectFirstLastCommitDates } from './git';
-import { projectDataList } from './data/project';
+import { data, util } from '@dottjt/datareade';
 
 const main = async () => {
-  await generateHugoMDFiles(projectDataList);
+  const { projects } = data;
+  const { juliusV6: { generateHugoMDFiles } } = util;
 
-  // await getProjectFirstLastCommitDates();
+  await generateHugoMDFiles(projects);
 };
 
 main();
