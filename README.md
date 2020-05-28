@@ -21,3 +21,6 @@ Essentially it was created to cater for my intended writing career. Stay tuned.
 
 // TODO I stupidly omitted the actual content files for V2 of the website. I will need to upload them to the repository, assuming I can even find them. We shall see. YUS.
 // TODO Need to figure out the build for julius v4 website.
+
+
+// TODO Maybe figure out how to put the /contact/_index.md and _index.md homepage files n' the data repository.
