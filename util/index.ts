@@ -1,13 +1,13 @@
 import path from 'path';
-import { data, util } from '@dottjt/datareade';
+import { data, website } from '@dottjt/datareade';
 
 const main = async () => {
   const { projects } = data;
-  const { juliusV6: { generateHugoMDFiles } } = util;
+  const { generateHugoMDFilesV6 } = website;
 
   const contentDirectory = path.join(__dirname, '..', 'content');
 
-  await generateHugoMDFiles({
+  await generateHugoMDFilesV6({
     projects,
     contentDirectory,
   });
