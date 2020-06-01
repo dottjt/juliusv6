@@ -8,7 +8,7 @@
     "tsc": "tsc",
     "update_datareade": "npm update @dottjt/datareade",
     "dev": "npm run update_datareade && ts-node-dev --respawn --transpileOnly ./util/index.ts",
-    "prod": "npm run update_datareade && tsc && node ./utilJS/app.js"
+    "prod": "npm run update_datareade && ts-node ./util/index.ts"
   },
   "repository": {
     "type": "git",
@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/dottjt/juliusv6#readme",
   "dependencies": {
-    "@dottjt/datareade": "^1.0.38",
+    "@dottjt/datareade": "^1.0.39",
     "dotenv": "^8.2.0",
     "husky": "^4.2.5",
     "ts-node-dev": "^1.0.0-pre.44",
