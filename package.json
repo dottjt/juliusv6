@@ -8,7 +8,9 @@
     "tsc": "tsc",
     "update_datareade": "npm update @dottjt/datareade",
     "dev": "npm run update_datareade && ts-node-dev --respawn --transpileOnly ./util/index.ts",
-    "prod": "npm run update_datareade && ts-node ./util/index.ts"
+    "prod": "npm run update_datareade && ts-node ./util/index.ts",
+
+    "generateFeeds": "npm run update_datareade && ts-node ./util/generateFeeds.ts"
   },
   "repository": {
     "type": "git",
