@@ -11,6 +11,8 @@ const main = async () => {
     projects,
     contentDirectory,
   });
+
+  // await generateSocial
 };
 
 main();
