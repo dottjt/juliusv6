@@ -12,8 +12,10 @@
 			<guid isPermaLink="false">https://cake.com</guid>
 			<author>julius.reade@gmail.com (Julius Reade)</author>
 			<pubDate>Thu, 11 Jun 2020 21:00:00 +0000</pubDate>
-			<jr:tag></jr:tag>
-			<jr:hashtag></jr:hashtag>
+			<jr:tag>random tag</jr:tag>
+			<jr:tag>yolo</jr:tag>
+			<jr:hashtag>#holy moly</jr:hashtag>
+			<jr:hashtag>#kek</jr:hashtag>
 			<jr:social>FacebookText</jr:social>
 			<jr:social>TwitterText</jr:social>
 			<jr:social>TumblrText</jr:social>
