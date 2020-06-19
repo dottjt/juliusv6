@@ -1,10 +1,9 @@
 import path from 'path';
-import { data, website, media } from '@dottjt/datareade';
+import { data, website } from '@dottjt/datareade';
 
 const main = async () => {
-  const { projects, feedNFDSocial } = data;
+  const { projects } = data;
   const { generateHugoMDFilesV6 } = website;
-  const { generateRSSFeed } = media;
 
   const contentDirectory = path.join(__dirname, '..', 'content');
 
